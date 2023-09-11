@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>First website</title>
+    </head>
+    <body>
+        <section>
+            <p>My first website</p>
+        </section>
+        <footer>
+            <p>By Marilena</p>
+        </footer>
+    </body>
+</html>

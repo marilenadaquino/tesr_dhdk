@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhdk>
+    <firstYear>
+        <course n="1" cfu="6">
+            <title>course 1</title>
+            <teacher>teacher 1</teacher>
+        </course>
+        <course n="2" cfu="12">
+            <title>course 2</title>
+            <teacher>teacher 2</teacher>
+        </course>
+        <course n="3" cfu="12">
+            <title>course 3</title>
+            <teacher>teacher 3</teacher>
+        </course>
+    </firstYear>
+</dhdk>
