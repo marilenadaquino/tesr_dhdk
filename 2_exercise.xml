@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><!--supply a title--></title>
+            </titleStmt>
+        <publicationStmt>
+            <publisher/>
+        </publicationStmt>
+        <sourceDesc>
+            <p><!--supply information about the source--></p>
+        </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 type="act" n="1">
+                <head>Act One</head>
+                <div2 type="scene" n="1">
+                    <stage>Pa Ubu, Ma Ubu</stage>
+                    <sp>
+                        <speaker>Pa Ubu</speaker>
+                        <p>Pschitt!</p>
+                    </sp>
+                </div2>
+                <div2 type="scene" n="2">
+                    <stage>A room in Pa Ubu's house, where a magnificent collation is set out</stage>
+                </div2>
+            </div1>
+            <div1 type="act" n="2">
+                <head>Act Two</head>
+                <div2 type="scene" n="1">
+                    <head>Scene One</head>
+                </div2>
+                <div2 type="scene" n="2">
+                    <head>Scene Two</head>
+                </div2>
+            </div1>
+        </body>
+    </text>
+ </TEI>
