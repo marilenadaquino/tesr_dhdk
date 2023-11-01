@@ -88,7 +88,7 @@
 
 # Exercise 2
 
-
+### 2.1
 The title of songs that are not produced by Warner records
 
 ```
@@ -97,6 +97,7 @@ The title of songs that are not produced by Warner records
 </xsl:if>
 ```
 
+### 2.2
 The name of artists that wrote a song after 2000
 
 ```
@@ -105,6 +106,7 @@ The name of artists that wrote a song after 2000
 </xsl:if>
 ```
 
+### 2.3
 The name of labels that are active in UK
 
 ```
@@ -113,6 +115,7 @@ The name of labels that are active in UK
 </xsl:if>
 ```
 
+### 2.4
 If produced by a UK-based label return “British!”, otherwise “Somewhere else”
 
 ```
