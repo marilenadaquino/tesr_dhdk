@@ -50,6 +50,8 @@ return $lang
 
 # Example HTML documents
 
+Minimal example
+
 ```
 <!doctype html>
 <html>
@@ -62,6 +64,8 @@ return $lang
   </body>
 </html>
 ```
+
+Longer example
 
 ```
 <!doctype html>

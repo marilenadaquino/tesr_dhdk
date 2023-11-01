@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogue.xsl"?>
+<catalog>
+  <cd>
+    <title>Resistance</title>
+    <artist>Muse</artist>
+    <label>Warner Records</label>
+    <country>UK</country>
+    <year>2009</year>
+  </cd>
+  <cd>
+    <title>Master of Puppets</title>
+    <artist>Metallica</artist>
+    <label>Elektra Records</label>
+    <country>Denmark</country>
+    <year>1986</year>
+  </cd>
+  <cd>
+    <title>A night at the Opera</title>
+    <artist>Queen</artist>
+    <label>EMI</label>
+    <country>UK</country>
+    <year>1975</year>
+  </cd>
+</catalog>
