@@ -20,6 +20,15 @@ Tidwell, Doug. XSLT: mastering XML transformations. " O'Reilly Media, Inc.", 200
 
 https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Misc/O%27Reilly-XSLT-Mastering.XML.Transformations.eBook-iNTENSiTY.pdf 
 
+## Python
+
 Mark, Lutz. "Learning Python 4th edition." (2009).
 
 https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf 
+
+## Text analysis, NLP
+
+Benjamin Bengfort, Tony Ojeda, Rebecca Bilbro-Applied Text Analysis with Python_ Enabling Language Aware Data Products with Machine Learning-O’Reilly Media (2017)
+
+https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Benjamin%20Bengfort,%20Tony%20Ojeda,%20Rebecca%20Bilbro-Applied%20Text%20Analysis%20with%20Python_%20Enabling%20Language%20Aware%20Data%20Products%20with%20Machine%20Learning-O%E2%80%99Reilly%20Media%20(2017).pdf
+
