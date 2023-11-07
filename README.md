@@ -32,3 +32,9 @@ Benjamin Bengfort, Tony Ojeda, Rebecca Bilbro-Applied Text Analysis with Python_
 
 https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Benjamin%20Bengfort,%20Tony%20Ojeda,%20Rebecca%20Bilbro-Applied%20Text%20Analysis%20with%20Python_%20Enabling%20Language%20Aware%20Data%20Products%20with%20Machine%20Learning-O%E2%80%99Reilly%20Media%20(2017).pdf
 
+# Semantic Web
+
+Antoniou, G. et al. (2012). A semantic web primer. MIT press.
+
+http://prof.mau.ac.ir/images/Uploaded_files/A%20Semantic%20Web%20Primer-The%20MIT%20Press%20(2012)%5B7460174%5D.PDF
+
