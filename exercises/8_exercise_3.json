@@ -1,0 +1,253 @@
+[
+  {
+    "@id": "http://w3id.org/example/b6d12cf571e6604ad93780c0edae245f",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Graphic novels"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/4d1df2ffa38d04f1a8e59cd2b196113f",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Comic books, strips"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/bb778e5d51b718919a34946f3ce27333",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Politics and government"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/4123e978ae023d2306b04e319badc7b6",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Fiction, mystery & detective, general"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/62f004275ff5cebdd3773cb34e70bf39",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Totalitarianism in fiction"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/d29e01d40186842986dfc9c7eb7e5a16",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "English Science fiction"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/c91b37fd85c9aac13a18adfc5ebce17a",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Comics & graphic novels, dystopian"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/51ff1261ab0b13bb6abfa1bc7fa0052e",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "England in fiction"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/b3c02591d71bfb4949af9333c0846db9",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Comics & graphic novels, general"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/ab8534884931f06f3a0a6b16a0f96fe9",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Comics & graphic novels, crime & mystery"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/f1506b6384d089277f61a768904fcaaa",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Literature"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/9170c85bb689c07b6804ecac3b3c25fa",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Great Britain in fiction"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/b7d7a66f694cae8986fb96a4a81957e7",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "nyt:hardcover-graphic-books=2009-09-27"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/becedacc7297c602348382f6d485dc91",
+    "@type": [
+      "http://schema.org/CreativeWork"
+    ],
+    "http://schema.org/abstract": [
+      {
+        "@value": "A seminal graphic novel that defined sophisticated storytelling, Alan Moore's best-selling V For Vendetta is a terrifying portrait of totalitarianism and resistance, superbly illustrated by artist David Lloyd. The graphic novel that inspired the hit movie V For Vendetta is a powerful story about loss of freedom and individuality.Set in a futuristic totalitarian England, a country without political freedom, personal freedom and precious little faith in anything,a mysterious man in a white porcelain mask fights political oppressors through terrorism and seemingly absurd acts. It's a gripping tale of the blurred lines between ideological good and evil. - Publisher."
+      }
+    ],
+    "http://schema.org/creator": [
+      {
+        "@id": "http://w3id.org/example/authors/OL440715A"
+      },
+      {
+        "@id": "http://w3id.org/example/authors/OL7519918A"
+      }
+    ],
+    "http://schema.org/genre": [
+      {
+        "@id": "http://w3id.org/example/c3f11f427a0600042da7bc1c37c5a3e1"
+      },
+      {
+        "@id": "http://w3id.org/example/b6d12cf571e6604ad93780c0edae245f"
+      },
+      {
+        "@id": "http://w3id.org/example/4d1df2ffa38d04f1a8e59cd2b196113f"
+      },
+      {
+        "@id": "http://w3id.org/example/bb778e5d51b718919a34946f3ce27333"
+      },
+      {
+        "@id": "http://w3id.org/example/d20091a286a4eeff950565357d61b49c"
+      },
+      {
+        "@id": "http://w3id.org/example/51ff1261ab0b13bb6abfa1bc7fa0052e"
+      },
+      {
+        "@id": "http://w3id.org/example/9170c85bb689c07b6804ecac3b3c25fa"
+      },
+      {
+        "@id": "http://w3id.org/example/62f004275ff5cebdd3773cb34e70bf39"
+      },
+      {
+        "@id": "http://w3id.org/example/d29e01d40186842986dfc9c7eb7e5a16"
+      },
+      {
+        "@id": "http://w3id.org/example/678e6e9b90c70fff25ecad83ad1d3bf3"
+      },
+      {
+        "@id": "http://w3id.org/example/aac7bc126483dd58f6308a8c4794f8f2"
+      },
+      {
+        "@id": "http://w3id.org/example/ab8534884931f06f3a0a6b16a0f96fe9"
+      },
+      {
+        "@id": "http://w3id.org/example/f1506b6384d089277f61a768904fcaaa"
+      },
+      {
+        "@id": "http://w3id.org/example/9ed8a66adeb05ce2b12ddc03f3588d95"
+      },
+      {
+        "@id": "http://w3id.org/example/5ccdb1729e277dbe25f227f7922287e2"
+      },
+      {
+        "@id": "http://w3id.org/example/4123e978ae023d2306b04e319badc7b6"
+      },
+      {
+        "@id": "http://w3id.org/example/b3c02591d71bfb4949af9333c0846db9"
+      },
+      {
+        "@id": "http://w3id.org/example/b7d7a66f694cae8986fb96a4a81957e7"
+      },
+      {
+        "@id": "http://w3id.org/example/41ed5e330961d45812585f60e6c3d953"
+      },
+      {
+        "@id": "http://w3id.org/example/c91b37fd85c9aac13a18adfc5ebce17a"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "V for Vendetta"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "V for Vendetta"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/5ccdb1729e277dbe25f227f7922287e2",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "New York Times bestseller"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/9ed8a66adeb05ce2b12ddc03f3588d95",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "nyt:paperback-graphic-books=2009-03-29"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/d20091a286a4eeff950565357d61b49c",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Anarchism"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/678e6e9b90c70fff25ecad83ad1d3bf3",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Totalitarianism"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/41ed5e330961d45812585f60e6c3d953",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Comics & graphic novels, literary"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/aac7bc126483dd58f6308a8c4794f8f2",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Anarchism in fiction"
+      }
+    ]
+  },
+  {
+    "@id": "http://w3id.org/example/c3f11f427a0600042da7bc1c37c5a3e1",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Fiction"
+      }
+    ]
+  }
+]

@@ -1,0 +1,168 @@
+@prefix ns1: <http://xmlns.com/foaf/0.1/> .
+@prefix ns2: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://w3id.org/example/0724a49145e7e5bb3072e000d27b7f67> a ns1:Person ;
+    rdfs:label "International Brigades." .
+
+<http://w3id.org/example/184b4065295c2baa9002b6bca32b21f8> a ns1:Person ;
+    rdfs:label "Spain. Ejército Popular de la República. Brigada Internacional." .
+
+<http://w3id.org/example/1a7feabaabac07705cea59aba631331f> a ns1:Person ;
+    rdfs:label "Marzani" .
+
+<http://w3id.org/example/210fd5097f6a29ce799675233c8eaf2b> a ns1:Person ;
+    rdfs:label "Prokosch, Frederic" .
+
+<http://w3id.org/example/2e46728f589970fb3f4e2b870f761e09> a ns1:Person ;
+    rdfs:label "Harry Milton papers" .
+
+<http://w3id.org/example/2f711af0aca2db65cc003f9a281a2e5a> a ns1:Person ;
+    rdfs:label "Štanský" .
+
+<http://w3id.org/example/3ae98437e7c41f4e553c32302f9e9bab> a ns1:Person ;
+    rdfs:label "Reginald" .
+
+<http://w3id.org/example/3f84183918bbcce913eecb6fd74a27d0> a ns1:Person ;
+    rdfs:label "Moore" .
+
+<http://w3id.org/example/44f1c209bc50e8b810f1bb6eae02dc35> a ns1:Person ;
+    rdfs:label "Factory Theatre Lab Archives." .
+
+<http://w3id.org/example/563476e6ae38f5472d2a84811f6568f3> a ns1:Person ;
+    rdfs:label "Fedotoff-White, D., (Dmitriĭ)" .
+
+<http://w3id.org/example/5af3d3b4b81e01df34b11203928ab711> a ns1:Person ;
+    rdfs:label "Blunden, Edmund" .
+
+<http://w3id.org/example/68c23d728a8ddad3bd5af8d42ab28d22> a ns1:Person ;
+    rdfs:label "Toronto Workshop Productions Archives (University of Guelph)" .
+
+<http://w3id.org/example/6dda81e7b3def4025673a87bd3528741> a ns1:Person ;
+    rdfs:label "Fuller, Roy" .
+
+<http://w3id.org/example/77579f4c10859db3852ba811b77a9888> a ns1:Person ;
+    rdfs:label "Foley" .
+
+<http://w3id.org/example/77ca06a9d7faca03d78986843d9801e7> a ns1:Person ;
+    rdfs:label "Orwell, George" ;
+    ns2:abstract "George Orwell (b. 25 June 1903, Motihari, India–d. 21 January 1950, London, England) is the pen name for British author Eric Arthur Blair. Orwell attended Eton College and he joined the Imperial police force taking a job in Burma (modern Myanmar). After returning to England, he settled in London and started writing and became a teacher. He is best known for novels 1984 and Animal Farm." ;
+    ns2:birthDate "1903-06-25"^^xsd:date ;
+    ns2:deathDate "1950-01-21"^^xsd:date ;
+    ns1:knows <http://w3id.org/example/0724a49145e7e5bb3072e000d27b7f67>,
+        <http://w3id.org/example/184b4065295c2baa9002b6bca32b21f8>,
+        <http://w3id.org/example/1a7feabaabac07705cea59aba631331f>,
+        <http://w3id.org/example/210fd5097f6a29ce799675233c8eaf2b>,
+        <http://w3id.org/example/2e46728f589970fb3f4e2b870f761e09>,
+        <http://w3id.org/example/2f711af0aca2db65cc003f9a281a2e5a>,
+        <http://w3id.org/example/3ae98437e7c41f4e553c32302f9e9bab>,
+        <http://w3id.org/example/3f84183918bbcce913eecb6fd74a27d0>,
+        <http://w3id.org/example/44f1c209bc50e8b810f1bb6eae02dc35>,
+        <http://w3id.org/example/563476e6ae38f5472d2a84811f6568f3>,
+        <http://w3id.org/example/5af3d3b4b81e01df34b11203928ab711>,
+        <http://w3id.org/example/68c23d728a8ddad3bd5af8d42ab28d22>,
+        <http://w3id.org/example/6dda81e7b3def4025673a87bd3528741>,
+        <http://w3id.org/example/77579f4c10859db3852ba811b77a9888>,
+        <http://w3id.org/example/77ca06a9d7faca03d78986843d9801e7>,
+        <http://w3id.org/example/7c6e8d16a121df9be3e30701e417d11b>,
+        <http://w3id.org/example/83319a5e01196096f21d783c881c19a6>,
+        <http://w3id.org/example/86d4a93ddbd6927574f4ecc5de0a32bf>,
+        <http://w3id.org/example/9471129791b49712117634b12d33ce49>,
+        <http://w3id.org/example/94fabcc277c2fc55dda540b9f3cd8247>,
+        <http://w3id.org/example/94ff2767dc7b705bc9e51be9e4093689>,
+        <http://w3id.org/example/98fbc73cc7eb074133f865f018a6bf35>,
+        <http://w3id.org/example/a4eaab1402194848ae978d230065ef2c>,
+        <http://w3id.org/example/a5b722fd6550ee2e5c33cf87049cd13b>,
+        <http://w3id.org/example/a7c8ff9c7a4b6216d91be3a45407821e>,
+        <http://w3id.org/example/a8018c0bc36222fe494972eb5e918ebb>,
+        <http://w3id.org/example/b07a2808f149f8b6ba78407082bcb0b0>,
+        <http://w3id.org/example/b1917ca1fb233bddc78e22da9b5c4b26>,
+        <http://w3id.org/example/ba99ddd5c809a45e216f41c3b5e48711>,
+        <http://w3id.org/example/c1d164124a72a8db547622692d46feb6>,
+        <http://w3id.org/example/c88f31ea6cd385ec43b9a6ac92b2e35a>,
+        <http://w3id.org/example/da2b8694e7d8b8f2953683e313ed0218>,
+        <http://w3id.org/example/de36b98b651894419f9b3bc16a8fc39e>,
+        <http://w3id.org/example/e278e11b5c003c91ceeb3f4bdeca7820>,
+        <http://w3id.org/example/e98eb9274f78510a80da9ba5b42d7043>,
+        <http://w3id.org/example/f11c340a1f7b5d6d431b5be947fc5259>,
+        <http://w3id.org/example/f7fb76415051a9f32a1407be7c96d551>,
+        <http://w3id.org/example/f8ae74f146a4e5a6e022e2f410d264be>,
+        <http://w3id.org/example/fb427beb6599b439b76e1ce6ed61ec6d>,
+        <http://w3id.org/example/fe5d691d4081b41f6b1367d2355693f7> .
+
+<http://w3id.org/example/7c6e8d16a121df9be3e30701e417d11b> a ns1:Person ;
+    rdfs:label "Milton" .
+
+<http://w3id.org/example/83319a5e01196096f21d783c881c19a6> a ns1:Person ;
+    rdfs:label "Symons, Julian" .
+
+<http://w3id.org/example/86d4a93ddbd6927574f4ecc5de0a32bf> a ns1:Person ;
+    rdfs:label "Nelson, Steve" .
+
+<http://w3id.org/example/9471129791b49712117634b12d33ce49> a ns1:Person ;
+    rdfs:label "Fischer, Ruth" .
+
+<http://w3id.org/example/94fabcc277c2fc55dda540b9f3cd8247> a ns1:Person ;
+    rdfs:label "Graziato, Massimo" .
+
+<http://w3id.org/example/94ff2767dc7b705bc9e51be9e4093689> a ns1:Person ;
+    rdfs:label "Lechoń, Jan" .
+
+<http://w3id.org/example/98fbc73cc7eb074133f865f018a6bf35> a ns1:Person ;
+    rdfs:label "MacDonald" .
+
+<http://w3id.org/example/a4eaab1402194848ae978d230065ef2c> a ns1:Person ;
+    rdfs:label "New Directions Publishing Corp." .
+
+<http://w3id.org/example/a5b722fd6550ee2e5c33cf87049cd13b> a ns1:Person ;
+    rdfs:label "Walcutt" .
+
+<http://w3id.org/example/a7c8ff9c7a4b6216d91be3a45407821e> a ns1:Person ;
+    rdfs:label "Murry, John Middleton" .
+
+<http://w3id.org/example/a8018c0bc36222fe494972eb5e918ebb> a ns1:Person ;
+    rdfs:label "Toronto Workshop Productions Archives." .
+
+<http://w3id.org/example/b07a2808f149f8b6ba78407082bcb0b0> a ns1:Person ;
+    rdfs:label "Miller, Henry" .
+
+<http://w3id.org/example/b1917ca1fb233bddc78e22da9b5c4b26> a ns1:Person ;
+    rdfs:label "Deak" .
+
+<http://w3id.org/example/ba99ddd5c809a45e216f41c3b5e48711> a ns1:Person ;
+    rdfs:label "Theatre Passe Muraille Archives (University of Guelph)" .
+
+<http://w3id.org/example/c1d164124a72a8db547622692d46feb6> a ns1:Person ;
+    rdfs:label "New Yorker Magazine" .
+
+<http://w3id.org/example/c88f31ea6cd385ec43b9a6ac92b2e35a> a ns1:Person ;
+    rdfs:label "Orr, Charles Andrew" .
+
+<http://w3id.org/example/da2b8694e7d8b8f2953683e313ed0218> a ns1:Person ;
+    rdfs:label "New York University." .
+
+<http://w3id.org/example/de36b98b651894419f9b3bc16a8fc39e> a ns1:Person ;
+    rdfs:label "Leab" .
+
+<http://w3id.org/example/e278e11b5c003c91ceeb3f4bdeca7820> a ns1:Person ;
+    rdfs:label "Woodcock, George" .
+
+<http://w3id.org/example/e98eb9274f78510a80da9ba5b42d7043> a ns1:Person ;
+    rdfs:label "Macdonald" .
+
+<http://w3id.org/example/f11c340a1f7b5d6d431b5be947fc5259> a ns1:Person ;
+    rdfs:label "Orr" .
+
+<http://w3id.org/example/f7fb76415051a9f32a1407be7c96d551> a ns1:Person ;
+    rdfs:label "Danielson, Richard Ely" .
+
+<http://w3id.org/example/f8ae74f146a4e5a6e022e2f410d264be> a ns1:Person ;
+    rdfs:label "Shaw Festival Collection (University of Guelph)" .
+
+<http://w3id.org/example/fb427beb6599b439b76e1ce6ed61ec6d> a ns1:Person ;
+    rdfs:label "Fen" .
+
+<http://w3id.org/example/fe5d691d4081b41f6b1367d2355693f7> a ns1:Person ;
+    rdfs:label "NDWT Archives (University of Guelph)" .
+

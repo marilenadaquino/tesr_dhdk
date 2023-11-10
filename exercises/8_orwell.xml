@@ -1,0 +1,1976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4     https://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+  <control>
+    <recordId>83710954</recordId>
+    <otherRecordId localType="ARK">http://n2t.net/ark:/99166/w66f6h13</otherRecordId>
+    <maintenanceStatus>revised</maintenanceStatus>
+    <maintenanceAgency>
+      <agencyName>
+                SNAC: Social Networks and Archival Context
+            </agencyName>
+    </maintenanceAgency>
+    <languageDeclaration>
+      <language languageCode="eng">English</language>
+      <script scriptCode="Latn">Latin</script>
+    </languageDeclaration>
+    <conventionDeclaration>
+      <citation>VIAF</citation>
+    </conventionDeclaration>
+    <maintenanceHistory>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2018-09-21T11:29:18">2018-09-21T11:29:18</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Dina Herbert (dina.herbert@nara.gov)</agent>
+        <eventDescription>{
+            "action": "merge",
+            "icids": [
+                "21715767",
+                "66960359",
+                "44629685"
+            ],
+            "arks": [
+                "http:\/\/n2t.net\/ark:\/99166\/w6ff3rfd",
+                "http:\/\/n2t.net\/ark:\/99166\/w6mx4qzg",
+                "http:\/\/n2t.net\/ark:\/99166\/w6bw0st5"
+            ]
+        }</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2018-09-21T11:29:20">2018-09-21T11:29:20</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Dina Herbert (dina.herbert@nara.gov)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2018-09-21T15:11:52">2018-09-21T15:11:52</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Dina Herbert (dina.herbert@nara.gov)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>revised</eventType>
+        <eventDateTime standardDateTime="2022-06-04T03:50:59">2022-06-04T03:50:59</eventDateTime>
+        <agentType>human</agentType>
+        <agent>Joseph Glass (glassjoseph@gmail.com)</agent>
+        <eventDescription>User published constellation</eventDescription>
+      </maintenanceEvent>
+      <maintenanceEvent>
+        <eventType>created</eventType>
+        <eventDateTime standardDateTime="2023-11-08">2023-11-08</eventDateTime>
+        <agentType>machine</agentType>
+        <agent>SNAC EAC-CPF Serializer</agent>
+        <eventDescription>SNAC Identity Constellation serialized to EAC-CPF</eventDescription>
+      </maintenanceEvent>
+    </maintenanceHistory>
+    <sources>
+      <source xlink:href="http://www.worldcat.org/oclc/629780645">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/34370328">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/629775728">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/626623057">
+                                            </source>
+      <source xlink:href="http://archiveshub.ac.uk/data/gb237-coll-146">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/ahub/f_6284.xml</filename>
+            <ead_entity en_type="persname">Orwell George 1903-1950</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/155516596">
+                                            </source>
+      <source xlink:href="http://viaf.org/viaf/243123213">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/122686844">
+                                            </source>
+      <source xlink:href="http://www.oac.cdlib.org/ark:/13030/kt1n39r4g4">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/oac/hoover/92044.xml</filename>
+            <ead_entity en_type="persname" encodinganalog="600" source="lcnaf">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/123430043">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/626689006">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/606455598">
+                                            </source>
+      <source xlink:href="http://dlib.nyu.edu/findingaids/html/tamwag/alba_photo_177/alba_photo_177.html">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/nyu/tamwag/alba_photo_177.xml</filename>
+            <ead_entity en_type="persname" source="naf">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://dlib.nyu.edu/findingaids/html/tamwag/alba_008/alba_008.html">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/nyu/tamwag/ALBA.008-ead.xml</filename>
+            <ead_entity en_type="persname" source="naf">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/627499580">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/647938361">
+                                            </source>
+      <source xlink:href="http://www.oac.cdlib.org/ark:/13030/kt0w1032fr">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/oac/hoover/93027.xml</filename>
+            <ead_entity en_type="persname" encodinganalog="600" source="lcnaf">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/629792102">
+                                            </source>
+      <source xlink:href="http://www.oac.cdlib.org/ark:/13030/kt096n97b6">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/oac/berkeley/bancroft/ma26_cubanc.xml</filename>
+            <ead_entity en_type="persname">Orwell, George</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/123373337">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/122421787">
+                                            </source>
+      <source xlink:href="http://viaf.org/viaf/95155403">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/629785025">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/144652344">
+                                            </source>
+      <source xlink:href="http://dlib.nyu.edu/findingaids/html/archives/washsquarephoto/washsquarephoto.html">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/nyu/archives/washsquarephoto.xml</filename>
+            <ead_entity en_type="persname" rules="aacr" source="naf">Orwell, George, 1903-1950</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/49004472">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/627499584">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/320409040">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/754872348">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/226664088">
+                                            </source>
+      <source xlink:href="http://archiveshub.ac.uk/data/gb186-jc">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/ahub/f_13809.xml</filename>
+            <ead_entity en_type="persname" source="nra">Orwell George 1903-1950 see Blair Eric Arthur</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://archiveshub.ac.uk/data/gb206-ms1394">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/ahub/f_10320.xml</filename>
+            <ead_entity en_type="persname" source="aacr2">Orwell George 1903-1950</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://hdl.handle.net/10079/fa/mssa.ms.0730">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/yale/mssa.ms.0730.xml</filename>
+            <ead_entity en_type="persname" rules="aacr" source="ingest">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/34367298">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/627499575">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/709879879">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/626689002">
+                                            </source>
+      <source xlink:href="http://id.lib.harvard.edu/ead/hou00077/catalog">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/harvard/hou00077.xml</filename>
+            <ead_entity en_type="persname">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://archives.nypl.org/mss/2236">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/nypl/mss2236.xml</filename>
+            <ead_entity en_type="persname">Orwell, George</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/476137225">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/122529930">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/7428531">
+                                            </source>
+      <source xlink:href="https://en.wikipedia.org/wiki/George_Orwell">
+        <sourceEntry>Wikipedia article, George Orwell (accessed Sept. 21, 2018)</sourceEntry>
+        <descriptiveNote>
+          <p>George Orwell (b. Eric Arthur Blair, 25 June 1903, Motihari, India–d. 21 January 1950, London, England); attneded Eton College; joined Imperial police force, took job in Burma (modern Myanmar); after returning to London he started writing and became a teacher; best known for novels 1984 and Animal Farm</p>
+        </descriptiveNote>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/627499588">
+                                            </source>
+      <source xlink:href="http://www.oac.cdlib.org/ark:/13030/kt3290326t">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/oac/hoover/87010.xml</filename>
+            <ead_entity en_type="persname" encodinganalog="600" source="lcnaf">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/55538900">
+                                            </source>
+      <source xlink:href="http://dlib.nyu.edu/findingaids/html/tamwag/tam_154/tam_154.html">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/nyu/tamwag/TAM.154-ead.xml</filename>
+            <ead_entity en_type="persname" source="naf">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/629767854">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/626689011">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/626689001">
+                                            </source>
+      <source xlink:href="http://archives.nypl.org/mss/727">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/nypl/mss727.xml</filename>
+            <ead_entity en_type="persname">Orwell, George, 1903-1950</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/62386294">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/549422104">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/86167674">
+                                            </source>
+      <source xlink:href="http://archives.nypl.org/brg/19270">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/nypl/brg19270.xml</filename>
+            <ead_entity en_type="persname">Orwell, George, 1903-1950</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/83361642">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/702182521">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/627499592">
+                                            </source>
+      <source xlink:href="http://archives.nypl.org/brg/19306">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/nypl/brg19306.xml</filename>
+            <ead_entity en_type="persname">Orwell, George, 1903-1950</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/495526612">
+                                            </source>
+      <source xlink:href="http://www.worldcat.org/oclc/614067318">
+                                            </source>
+      <source xlink:href="http://library.brown.edu/riamco/render.php?eadid=US-RPB-ms2010.011&amp;view=title">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/riamco/US-RPB-ms2010.011.xml</filename>
+            <ead_entity en_type="persname" encodinganalog="600" normal="Orwell, George, 1903-1950" source="lcnaf">Orwell, George, 1903-1950</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://id.lib.harvard.edu/ead/hou00448/catalog">
+        <objectXMLWrap>
+          <container xmlns="http://socialarchive.iath.virginia.edu/control/term#snacAdHocRandD">
+            <filename>/data/source/findingAids/harvard/hou00448.xml</filename>
+            <ead_entity en_type="persname">Orwell, George, 1903-1950.</ead_entity>
+          </container>
+        </objectXMLWrap>
+      </source>
+      <source xlink:href="http://www.worldcat.org/oclc/627499577">
+                                            </source>
+    </sources>
+  </control>
+  <cpfDescription>
+    <identity>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part localType="Surname">Orwell</part>
+        <part localType="Forename">George</part>
+        <part localType="Date">1903-1950</part>
+        <authorizedForm>rda</authorizedForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Oruel</part>
+        <part localType="Forename">G.</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">奥威尔乔治</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">اورويل</part>
+        <part localType="Forename">جورج</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Oravēla</part>
+        <part localType="Forename">Jyorja</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Orṿel</part>
+        <part localType="Forename">G'org'</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Ārvel</part>
+        <part localType="Forename">Jārji</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Oruell</part>
+        <part localType="Forename">Dzhordzh</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>presumed</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Forename">Jārj Ārvil</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">オーウェル</part>
+        <part localType="Forename">ジョージ</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Name">Орвелл, Джордж</part>
+        <alternativeForm>presumed</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Āravēla</part>
+        <part localType="Forename">Jorja</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">אורוול</part>
+        <part localType="Forename">ג׳ורג׳</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Oruel</part>
+        <part localType="Forename">Dzhordzh</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">אורול</part>
+        <part localType="Forename">ג׳ורג׳</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">אורוול</part>
+        <part localType="Forename">גורג</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Ōweru</part>
+        <part localType="Forename">Jōji</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Orvel</part>
+        <part localType="Forename">Džordž</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">آرول</part>
+        <part localType="Forename">جارج،</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>presumed</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Орвелл</part>
+        <part localType="Forename">Джордж</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Orvel</part>
+        <part localType="Forename">G'org'</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Orvel</part>
+        <part localType="Forename">Dzordz</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Oravela</part>
+        <part localType="Forename">Jyorja</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Blair</part>
+        <part localType="Forename">Eric Arthur</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Aravela</part>
+        <part localType="Forename">Jorja</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Orvel</part>
+        <part localType="Forename">G'org'</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Forename">Jarj Arvil</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Urvil</part>
+        <part localType="Forename">Jurj</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Ūrvil</part>
+        <part localType="Forename">Jurj</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Oweru</part>
+        <part localType="Forename">Joji</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+      <nameEntry>
+        <part localType="Surname">Arvel</part>
+        <part localType="Forename">Jarji</part>
+        <part localType="Date">1903-1950</part>
+        <alternativeForm>rda</alternativeForm>
+      </nameEntry>
+    </identity>
+    <description>
+      <existDates>
+        <dateRange>
+          <fromDate localType="http://socialarchive.iath.virginia.edu/control/term#Birth" standardDate="1903-06-25">1903-06-25</fromDate>
+          <toDate localType="http://socialarchive.iath.virginia.edu/control/term#Death" standardDate="1950-01-21">1950-01-21</toDate>
+        </dateRange>
+      </existDates>
+      <languageUsed>
+        <language languageCode="eng">English</language>
+        <script scriptCode="Latn">Latin</script>
+      </languageUsed>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry vocabularySource="http://www.geonames.org/1262710/mothihari.html" latitude="26.6486200" longitude="84.9165600" countryCode="IN">Mothīhāri
+                </placeEntry>
+      </place>
+      <place localType="http://socialarchive.iath.virginia.edu/control/term#AssociatedPlace">
+        <placeEntry vocabularySource="http://www.geonames.org/2643743" latitude="51.5085300" longitude="-0.1257400" countryCode="GB">London
+                </placeEntry>
+      </place>
+      <localDescription localType="http://viaf.org/viaf/terms#nationalityOfEntity">
+        <term>Britons</term>
+      </localDescription>
+      <occupation>
+        <term>Authors</term>
+      </occupation>
+      <biogHist>
+        <p>George Orwell (b. 25 June 1903, Motihari, India–d. 21 January 1950, London, England) is the pen name for British author Eric Arthur Blair. Orwell attended Eton College and he joined the Imperial police force taking a job in Burma (modern Myanmar). After returning to England, he settled in London and started writing and became a teacher. He is best known for novels 1984 and Animal Farm.</p>
+      </biogHist>
+    </description>
+    <relations>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6bp02mq">
+        <relationEntry>Blunden, Edmund, 1896-1974.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6029pf1">
+        <relationEntry>Danielson, Richard Ely, 1885-1957.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6416v4t">
+        <relationEntry>Deak, Jon.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w66x6c18">
+        <relationEntry>Factory Theatre Lab Archives.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w609360j">
+        <relationEntry>Factory Theatre Lab Archives.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6rv43bh">
+        <relationEntry>Fedotoff-White, D., (Dmitriĭ), 1889-1950.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6pq4ds2">
+        <relationEntry>Fen, Elisaveta</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w62c1hcr">
+        <relationEntry>Fen, Elisaveta.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6wd42r7">
+        <relationEntry>Fischer, Ruth, 1895-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6611vkc">
+        <relationEntry>Foley, Donald L.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w69b0g36">
+        <relationEntry>Foley, Katharine</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6g44q6f">
+        <relationEntry>Fuller, Roy, 1912-1991.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6gh9z0b">
+        <relationEntry>Graziato, Massimo, 1967-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6tv6xzw">
+        <relationEntry>Harry Milton papers</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w63r756r">
+        <relationEntry>International Brigades.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6v70k6q">
+        <relationEntry>Leab, Daniel J.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w68s4zgm">
+        <relationEntry>Lechoń, Jan, 1899-1956.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6x63k9g">
+        <relationEntry>Macdonald, Dwight.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6nt2xd9">
+        <relationEntry>MacDonald, Dwight.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6z15m8s">
+        <relationEntry>Marzani, Carl</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6tb16w7">
+        <relationEntry>Miller, Henry, 1891-1980.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6pr8r9s">
+        <relationEntry>Milton, Harry.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6kt0bn1">
+        <relationEntry>Moore, Lorna.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6fj2gs7">
+        <relationEntry>Murry, John Middleton, 1889-1957.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6423qz4">
+        <relationEntry>NDWT Archives (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6b33k21">
+        <relationEntry>NDWT Archives (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6fj2x26">
+        <relationEntry>Nelson, Steve, 1903-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6rc13hs">
+        <relationEntry>New Directions Publishing Corp.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#correspondedWith" xlink:href="http://n2t.net/ark:/99166/w6bd0xbq">
+        <relationEntry>New Yorker Magazine, Inc</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6k96xpm">
+        <relationEntry>New York University.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6vn6k5p">
+        <relationEntry>Orr, Charles A. (Charles Andrew)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6p27g1m">
+        <relationEntry>Orr, Charles Andrew, 1906-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w60g3r2s">
+        <relationEntry>Prokosch, Frederic, 1908-1989.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6542wkw">
+        <relationEntry>Reginald, R.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6gj6jw7">
+        <relationEntry>Shaw Festival Collection (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6gz1cg1">
+        <relationEntry>Shaw Festival Collection (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6cc6pz4">
+        <relationEntry>Shaw Festival Collection (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6kh6c20">
+        <relationEntry>Shaw Festival Collection (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6kq52wq">
+        <relationEntry>Shaw Festival Collection (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6vb3zd4">
+        <relationEntry>Shaw Festival Collection (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6rg1hc0">
+        <relationEntry>Spain. Ejército Popular de la República. Brigada Internacional.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w69c88d4">
+        <relationEntry>Štanský, Peter.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6b56v25">
+        <relationEntry>Symons, Julian, 1912-</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6fn5mq5">
+        <relationEntry>Theatre Passe Muraille Archives (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6z390db">
+        <relationEntry>Toronto Workshop Productions Archives.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6v76df2">
+        <relationEntry>Toronto Workshop Productions Archives (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6n082jr">
+        <relationEntry>Toronto Workshop Productions Archives (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6v47pzf">
+        <relationEntry>Toronto Workshop Productions Archives (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#CorporateBody" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w60931gr">
+        <relationEntry>Toronto Workshop Productions Archives (University of Guelph)</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6mm00d0">
+        <relationEntry>Walcutt, Sue.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#associatedWith" xlink:href="http://n2t.net/ark:/99166/w6tm7s87">
+        <relationEntry>Woodcock, George, 1912-1995.</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="https://viaf.org/viaf/95155403">
+        <relationEntry>Orwell, George, 1903-1950</relationEntry>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="https://www.wikidata.org/entity/Q3335">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="https://www.worldcat.org/identities/lccn-n79058639">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="https://id.loc.gov/authorities/n79058639">
+        <relationEntry/>
+      </cpfRelation>
+      <cpfRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#Person" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#sameAs" xlink:href="https://ancestors.familysearch.org/en/LZ88-FC7">
+        <relationEntry/>
+      </cpfRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.oac.cdlib.org/ark:/13030/kt0w1032fr">
+        <relationEntry>Peter Stansky miscellaneous papers, 1937-1987</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Stansky, Peter.</persname>
+            </origination>
+            <unittitle>Peter Stansky miscellaneous papers 1937-1987</unittitle>
+            <physdesc>
+              <extent>1 folder; (0.1 linear feet)</extent>
+            </physdesc>
+            <abstract>Correspondence with Harry Milton and others, radio broadcast transcript, clippings, photographs, and miscellany, relating to the acquaintanceship of Milton with the British writer George Orwell in Spain during the Spanish Civil War.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6mh8c79">Hoover Institution Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://dlib.nyu.edu/findingaids/html/tamwag/alba_photo_177/alba_photo_177.html">
+        <relationEntry>International Brigades Archive, Moscow: Selected Images, 1937-1938</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>International Brigades Archive, Moscow: Selected Images 1937-1938</unittitle>
+            <physdesc>
+              <extent>1.0 linear feet, (2 boxes, 1 binder)</extent>
+            </physdesc>
+            <abstract>This collection of images was selected from the International Brigades Archive in Moscow, Series 5: Photographs. They were originally produced in Spain by staff photographers of the International Brigades. The collection consists of copy negatives produced for and purchased by the Abraham Lincoln Brigade Archives in the mid-1990s. The collection includes group portraits, individual portraits and battlefield and non-combat scenes showing members and activities of the International Brigades (14th, 15th, 57th, 58th, 59th and 60th Battalions), and civilians during the Spanish Civil War. The only identified photographer is Major Vladimir Stefanovich, a Yugoslavian volunteer. Included are images of the International Brigades training, life in camp, the International Brigades Band, Spanish Republican military leaders, Communist Party leaders and distinguished visitors, including Langston Hughes, Ernest Hemingway, and Harry Pollitt.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63p2tmd">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/122529930">
+        <relationEntry>Prokosch, Frederic, 1908-1989. Letters : to Cyril Connolly, 1944 and undated.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Prokosch, Frederic, 1908-1989.</persname>
+              <persname>Connolly, Cyril, 1903-1974,</persname>
+            </origination>
+            <unittitle>Letters : to Cyril Connolly, 1944 and undated.</unittitle>
+            <physdesc>
+              <extent>4 items.</extent>
+            </physdesc>
+            <abstract>The Cyril Connolly Papers contain correspondence consisting of 3 ALS (undated) and 1 postcard (1944 Jun. 12) from Prokosch to Connolly in which Prokosch discusses such things as Connolly's articles on T.S. Eliot and W.H. Auden and Prokosch's views on writers such as G.F. Green, Rhys Davies, George Orwell, John Betjeman, Louis MacNeice and W.B. Yeats. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6mh8c3h">The University of Tulsa, McFarlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://archiveshub.ac.uk/data/gb186-jc">
+        <relationEntry>Jack Common Papers, 1916-1988</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Jack Common Papers 1916-1988</unittitle>
+            <physdesc>
+              <extent>4.5 linear metres</extent>
+            </physdesc>
+            <abstract/>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w67x71zx">Newcastle University</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://archiveshub.ac.uk/data/gb206-ms1394">
+        <relationEntry>Elisaveta Fen papers, 1910-1984</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Elisaveta Fen papers 1910-1984</unittitle>
+            <physdesc>
+              <extent>42,344 ff., 25 vols, 1 icon, manuscript, typescript, printed, and photographs</extent>
+            </physdesc>
+            <abstract/>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="fre">French</language>
+              <language langcode="ger">German</language>
+              <language langcode="rus">Russian</language>
+              <language langcode="spa">Spanish; Castilian</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6998zf5">GB 206 Leeds University Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/122421787">
+        <relationEntry>Blunden, Edmund, 1896-1974. Papers, 1922-1986.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Blunden, Edmund, 1896-1974.</persname>
+            </origination>
+            <unittitle>Papers, 1922-1986.</unittitle>
+            <physdesc>
+              <extent>8 linear ft. (ca. 2,600 items in 20 boxes)</extent>
+            </physdesc>
+            <abstract>Correspondence, manuscripts, documents, photographs and printed material of the English poet and critic, Edmund Blunden, documenting his personal and professional activity. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6nt1h9m">Columbia University in the City of New York, Columbia University Libraries</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/629785025">
+        <relationEntry>Toronto Workshop Productions Archives (University of Guelph). Nineteen Eighty-Four / based on the novel by George Orwell ; adapted and directed by Michael Hollingsworth, 1980 - production photos.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Toronto Workshop Productions Archives (University of Guelph)</persname>
+              <persname>Hollingsworth, Michael.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+              <persname>Video Cabaret.</persname>
+            </origination>
+            <unittitle>Nineteen Eighty-Four / based on the novel by George Orwell ; adapted and directed by Michael Hollingsworth, 1980 - production photos. 1980.</unittitle>
+            <physdesc>
+              <extent>8 b&amp;w photos, 20 x 25 cm. ; 2 b&amp;w contact sheets, 20 x 25 cm. ; 2 col. photos, 20 x 25 cm.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/62386294">
+        <relationEntry>Graziato, Massimo, 1967-. Beasts of England : for bass solo, chorus and orchestra / Massimo Graziato ; text from "Animal farm a fairy story" by George Orwell.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Graziato, Massimo, 1967-</persname>
+              <persname>Orwell, George, 1903-1950</persname>
+            </origination>
+            <unittitle>Beasts of England : for bass solo, chorus and orchestra / Massimo Graziato ; text from "Animal farm a fairy story" by George Orwell. [200-]</unittitle>
+            <physdesc>
+              <extent>1 score (30 p.) ; 42 cm.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6q05z6h">Bowling Green State University, BGSU Libraries</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.oac.cdlib.org/ark:/13030/kt3290326t">
+        <relationEntry>Harry Milton papers, 1937-1986</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Harry Milton papers</persname>
+            </origination>
+            <unittitle>Harry Milton papers 1937-1986</unittitle>
+            <physdesc>
+              <extent>1 oversize box, 1 envelope; (0.5 linear feet)</extent>
+            </physdesc>
+            <abstract>Letters, memoranda, clippings, and photographs, relating to the service of H. Milton with the Partido Obrero de Unificación Marxista (POUM) militia during the Spanish Civil War, his acquaintanceship with the writer George Orwell in the POUM militia, and miscellaneous activities of the Fourth International. Includes letters by Leon Trotsky.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6mh8c79">Hoover Institution Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/34370328">
+        <relationEntry>Moore, Lorna. Note, 1937 Sep. 14, London, to [George] Orwell [London?]</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Moore, Lorna.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Note, 1937 Sep. 14, London, to [George] Orwell [London?]</unittitle>
+            <physdesc>
+              <extent>1 p. Holograph signed. 13 x 20 cm.</extent>
+            </physdesc>
+            <abstract>Requests reviews of books including "Spanish circus." </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6fc5s1h">University of Michigan</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://archives.nypl.org/mss/727">
+        <relationEntry>Richard Ely Danielson papers, 1940-1948</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Danielson, Richard E. (Richard Ely), 1885-1957</persname>
+            </origination>
+            <unittitle>Richard Ely Danielson papers 1940-1948</unittitle>
+            <physdesc>
+              <extent>.4 linear foot (1 box)</extent>
+            </physdesc>
+            <abstract>Richard Ely Danielson (1885-1957) was editor of the Boston Independent from 1924 to 1928, editor of The Sportsman from 1927 to 1937, and then president of the Atlantic Monthly Company and associate editor of The Atlantic Monthly. Collection consists of authors' typescripts and proofs of articles and poems published in The Atlantic Monthly, and some correspondence. Typescripts and proofs have been edited and include Douglas P. Millers's book You Can't Do Business with Hitler.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6cs6hd1">New York Public Library. Manuscripts and Archives Division</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/549422104">
+        <relationEntry>Leab, Daniel J. The Daniel J. Leab Collection of Books and Manuscripts by and about George Orwell.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Leab, Daniel J.</persname>
+              <persname>Leab, Katharine Kyes.</persname>
+              <persname>Brown University. Library. Special Collections.</persname>
+              <persname>Daniel J. Leab Collection of Books and Manuscripts by and about George Orwell (Brown University)</persname>
+            </origination>
+            <unittitle>The Daniel J. Leab Collection of Books and Manuscripts by and about George Orwell. 1933-</unittitle>
+            <physdesc>
+              <extent>ca. 300 items.</extent>
+            </physdesc>
+            <abstract>Consists primarily of printed works by and about Orwell, collected by Daniel J. Leab, and given by him and Katharine Kyes Leab to the Brown University Library in 1997. </abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="mul">Multiple languages</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w66r2km4">Brown University, Brown University Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://library.brown.edu/riamco/render.php?eadid=US-RPB-ms2010.011&amp;view=title">
+        <relationEntry>Daniel J. Leab collection on the filming of Orwell's Animal Farm, Leab (Daniel J.) collection on the filming of Orwell's Animal Farm, 1950-2006</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Leab, Daniel J.</persname>
+            </origination>
+            <unittitle>Daniel J. Leab collection on the filming of Orwell's Animal Farm Leab (Daniel J.) collection on the filming of Orwell's Animal Farm 1950-2006</unittitle>
+            <physdesc>
+              <extent>1.5 linear feet</extent>
+            </physdesc>
+            <abstract>Consists primarily of information by and about George Orwell, collected by Daniel J. Leab in writing . Contains correspondence, drafts of the book, scripts from the movie , press clippings about the movie, and articles about a variety of subjects, ranging from the life of George Orwell, to the history of animated film. Orwell Subverted: the CIA and the Filming of Animal Farm Animal Farm</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6fp1vw4">Brown University Library, Special Collections</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.oac.cdlib.org/ark:/13030/kt096n97b6">
+        <relationEntry>Donald and Katharine Foley Collection of Penguin Books, 1935-1965</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Foley, Donald L.</persname>
+              <persname>Foley, Katharine</persname>
+            </origination>
+            <unittitle>Donald and Katharine Foley Collection of Penguin                Books 1935-1965</unittitle>
+            <physdesc>
+              <extent>circa 2,500 vols.</extent>
+            </physdesc>
+            <abstract>Includes more than 2,550 Penguin books published from 1935                through 1965, as well as about 175 reference items–books, serials,                catalogs, and articles.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w64r8kfj">Bancroft Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://dlib.nyu.edu/findingaids/html/archives/washsquarephoto/washsquarephoto.html">
+        <relationEntry>Washington Square Park (New York, N.Y.), Washington Square Area, and Campus Buildings Image Collection, 1850-1990</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Washington Square Park (New York, N.Y.), Washington Square Area, and Campus Buildings Image Collection 1850-1990</unittitle>
+            <physdesc>
+              <extent>7.5 linear feet</extent>
+            </physdesc>
+            <abstract>This collection contains images of Washington Square Park (New York, N.Y.), the Washington Square area (below 14th Street, above Houston St.) and the old University Building from the New York University Archives image collection.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6wf4pnp">New York University. Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/495526612">
+        <relationEntry>Fuller, Roy, 1912-1991. Roy Fuller manuscripts, 1965-1969.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Fuller, Roy, 1912-1991.</persname>
+            </origination>
+            <unittitle>Roy Fuller manuscripts, 1965-1969.</unittitle>
+            <physdesc>
+              <extent>1 box.</extent>
+            </physdesc>
+            <abstract>Poetry manuscripts written during the 1960's. Also, a manuscript notebook containing at least 55 pieces including articles, talks, and book reviews, mostly with titles. These are carefully corrected first drafts and include a long essay on Graves' "White Goddess," an introduction to Edgell Rickword, and essays on J.R. Ackerley, Ruth Pitter, "My Kind of Poetry," "Auden at Sixty," George Orwell, A.E. Housman, and F.R. Leavis. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6nt1h9m">Columbia University in the City of New York, Columbia University Libraries</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/627499575">
+        <relationEntry>Factory Theatre Lab Archives. 1984 / by George Orwell; script by Alan Jaslow - unproduced reading script.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Factory Theatre Lab Archives.</persname>
+              <persname>Jaslow, Alan.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>1984 / by George Orwell; script by Alan Jaslow - unproduced reading script. n.d.</unittitle>
+            <physdesc>
+              <extent>1 file.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/626689001">
+        <relationEntry>Shaw Festival Collection (University of Guelph). Nineteen Eighty-Four / by George Orwell ; directed by Johanna Mercer - sound tapes and recordings.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Shaw Festival Collection (University of Guelph)</persname>
+              <persname>Mercer, Johanna.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Nineteen Eighty-Four / by George Orwell ; directed by Johanna Mercer - sound tapes and recordings. 1984.</unittitle>
+            <physdesc>
+              <extent>11 tapes.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/629767854">
+        <relationEntry>NDWT Archives (University of Guelph). Nineteen Hundred Eighty-Four / by George Orwell ; adapted by Michael Hollingsworth, 1980 - press releases.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>NDWT Archives (University of Guelph)</persname>
+              <persname>Hollingsworth, Michael.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Nineteen Hundred Eighty-Four / by George Orwell ; adapted by Michael Hollingsworth, 1980 - press releases. 1980.</unittitle>
+            <physdesc>
+              <extent>1 file.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/629792102">
+        <relationEntry>Toronto Workshop Productions Archives (University of Guelph). 1984 / based on the novel by George Orwell ; adapted and directed by Michael Hollingsworth, 1980 - reviews and articles.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Toronto Workshop Productions Archives (University of Guelph)</persname>
+              <persname>Hollingsworth, Michael.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>1984 / based on the novel by George Orwell ; adapted and directed by Michael Hollingsworth, 1980 - reviews and articles. 1981.</unittitle>
+            <physdesc>
+              <extent>1 file.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="https://archives.yale.edu/repositories/12/resources/4550">
+        <relationEntry>Macdonald, Dwight. Dwight Macdonald papers, 1865-1984 (inclusive), 1920-1978 (bulk).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Macdonald, Dwight.</persname>
+            </origination>
+            <unittitle>Dwight Macdonald papers</unittitle>
+            <physdesc>
+              <extent>94.25 linear ft.</extent>
+            </physdesc>
+            <abstract>The papers consist of correspondence, manuscripts, notes, printed material, photographs, and memorabilia documenting the personal life and professional career of Dwight Macdonald. Macdonald's literary career, political activities, teaching and speaking engagements, and personal life are detailed. Major subjects represented in the papers include: communism and the Trotskyite movement, journalism and publishing, American social and political life (1920s-1970s), pacifism, and the Congress for Cultural Freedom. Correspondence files include letters with many prominent intellectual and political figures.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="fre">French</language>
+              <language langcode="spa">Spanish; Castilian</language>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6wj3g5k">Yale University Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/629775728">
+        <relationEntry>Toronto Workshop Productions Archives (University of Guelph). 1984 / based on the novel by George Orwell ; adapted and directed by Michael Hollingsworth, 1980 - house program.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Toronto Workshop Productions Archives (University of Guelph)</persname>
+              <persname>Hollingsworth, Michael.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+              <persname>Video Cabaret Production.</persname>
+            </origination>
+            <unittitle>1984 / based on the novel by George Orwell ; adapted and directed by Michael Hollingsworth, 1980 - house program. 1980.</unittitle>
+            <physdesc>
+              <extent>3 items.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/614067318">
+        <relationEntry>Carl Aldo Marzani Papers [1890]-1994, (bulk 1935-1975).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>Carl Aldo Marzani Papers [1890]-1994, (bulk 1935-1975).</unittitle>
+            <physdesc>
+              <extent>18.5 linear feet (38 boxes)</extent>
+            </physdesc>
+            <abstract>Carl Marzani (1912-1994)was an Italian-American immigrant radical and briefly a Communist Party, USA organizer on New York City's Lower East Side. He served in the Office of Strategic Services during World War II and briefly thereafter in the State Department. He was also a political documentary filmmaker, the author of six books and numerous articles, and as an editor and publisher, first translated and published portions of the work of the Italian Marxist, Antonio Gramsci. Marzani served almost ... The papers principally contain personal, political, and business correspondence and writings, and are organized into seven series: I. Biographical: Childhood &amp; Youth; II. Trial/Prison Papers; III. Correspondence; IV. Writings; V. Political Activities; VI. Publishing: Cameron Associates, Marzani &amp; Munsell; VII. Addendum. Eighteen audiocassette interviews, conducted in Italy in Italian for Marzani's book The Promise of Eurocommunism, have been been separated to the Library's Oral History collections, ... </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63p2tmd">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/627499580">
+        <relationEntry>Toronto Workshop Productions Archives. 1984 (Nineteen Eighty-Four) / by George Orwell, 1979 - unproduced reading script.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Toronto Workshop Productions Archives.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>1984 (Nineteen Eighty-Four) / by George Orwell, 1979 - unproduced reading script. 1979.</unittitle>
+            <physdesc>
+              <extent>1 file.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/83361642">
+        <relationEntry>International Brigades. International Brigades Archive, Moscow [graphic] : selected images, 1937-1938.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>International Brigades.</persname>
+              <persname>Comintern Archives.</persname>
+            </origination>
+            <unittitle>International Brigades Archive, Moscow [graphic] : selected images, 1937-1938.</unittitle>
+            <physdesc>
+              <extent>0.5 linear ft. (1 box)Ca. 1,048 photographs : negative, b&amp;w ; 2 5/8 x 3 1/2 in. or smaller.</extent>
+            </physdesc>
+            <abstract>Among the subjects represented are group photographs and portraits of members of the International Brigades (including British, Dimitrov, Dombrowski, Lincoln-Washington and MacKenzie Papineau Battalions), International Brigades training, life in camp, leisure activities, International Brigades Band, Spanish Republican military leaders, Communist Party leaders (including Earl Browder), distinguished visitors such as Langston Hughes and George Orwell (Eric Blair), and a photo album compiled by Major Stefanovich prior to the Brunete offensive. Although these photographs were not the work on the unit specifically designated to record activity of the English-speaking units, there are a substantial number of images of U.S. and Canadian volunteers included. Each file folder has a descriptive title provided by the International Brigades Archive. Caption information comes from an English translation of the Guide to the International Brigade Archives (Moscow) commissioned by ALBA for their own use. Some proper names have been corrected or expanded, and some abbreviations have been expanded. The Moscow guide provided descriptive captions for some images, but many are without caption information. Entries in the box and folder list begin with a file number and title (bold type), followed by a complete listing of image numbers in that file.  Individual captions for those images that have caption information follow. Four-hundred-and-twenty-five (425) photographs are attributed to Yugoslavian volunteer, Major Vladimir Stefanovich. Folder 5 (5/179) contains 195 of his photographs and folder 22 (5/196) contains 230 of his photographs. The remaining 623 images are not credited to a photographer. The negatives have been printed on 5 x 7 inch sheets with 3 or 4 images per sheet. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w69t2dff">Churchill County Museum</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://archives.nypl.org/brg/19270">
+        <relationEntry>Julian Symons collection of papers, 1929]-1967</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Symons, Julian, 1912-</persname>
+            </origination>
+            <unittitle>Julian Symons collection of papers 1929]-1967</unittitle>
+            <physdesc>
+              <extent>600 items</extent>
+            </physdesc>
+            <abstract>This is a synthetic collection consisting of manuscripts, typescripts, and correspondence.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6bd4ncc">The New York Public Library. Henry W. and Albert A. Berg Collection of English and American Literature.</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://id.lib.harvard.edu/ead/hou00077/catalog">
+        <relationEntry>New Directions Publishing Corp. records, ca. 1933-1997.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>New Directions Publishing records</unittitle>
+            <physdesc>
+              <extent>344 linear feet (910 boxes and 4 volumes)</extent>
+            </physdesc>
+            <abstract>Records of the New Directions Publishing Corporation largely from the Norfolk, Connecticut office of the founder, James Laughlin.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="spa">Spanish; Castilian</language>
+              <language langcode="spa">Spanish; Castilian</language>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w67f3krh">Houghton Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/226664088">
+        <relationEntry>Prokosch, Frederic, 1908-1989. Frederic Prokosch correspondence, 1944.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Prokosch, Frederic, 1908-1989.</persname>
+            </origination>
+            <unittitle>Frederic Prokosch correspondence, 1944.</unittitle>
+            <physdesc>
+              <extent>4 pieces.</extent>
+            </physdesc>
+            <abstract>The material described below is part of the Cyril Connolly Papers. Correspondence consists of three autograph, signed letters and one postcard from Frederic Prokosch to Cyril Connolly in which Prokosch discusses such things as Connolly's articles on T.S. Eliot and W.H. Auden and his (Prokosch's) views on writers such as G.F. Green, Rhys Davies, George Orwell, John Betjeman, Louis MacNeice and W.B. Yeats. Only the postcard is dated (12 Jun 1944). </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6mh8c3h">The University of Tulsa, McFarlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/55538900">
+        <relationEntry>Deak, Jon. Greetings from 1984 / Jon Deak.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Deak, Jon.</persname>
+              <persname>Orwell, George, 1903-1950</persname>
+            </origination>
+            <unittitle>Greetings from 1984 / Jon Deak. 1983.</unittitle>
+            <physdesc>
+              <extent>1 ms. score (32 p.) ; 28 cm.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w68h9b75">University of Maryland (College Park, Md.). Libraries</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/626623057">
+        <relationEntry>Theatre Passe Muraille Archives (University of Guelph). Modern Living ; Video Cabaret at The Horseshoe Tavern / directed by Michael Hollingsworth, 1979 - house program.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Theatre Passe Muraille Archives (University of Guelph)</persname>
+              <persname>Hummer Sisters.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+              <persname>Hollingsworth, Michael.</persname>
+              <persname>Rochdale College.</persname>
+              <persname>Church of the Holy Trinity.</persname>
+            </origination>
+            <unittitle>Modern Living ; Video Cabaret at The Horseshoe Tavern / directed by Michael Hollingsworth, 1979 - house program. 1979.</unittitle>
+            <physdesc>
+              <extent>3 items.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/629780645">
+        <relationEntry>Toronto Workshop Productions Archives (University of Guelph). Nineteen Eighty-Four / based on the novel by George Orwell ; adapted and directed by Michael Hollingsworth, 1980 - performance file.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Toronto Workshop Productions Archives (University of Guelph)</persname>
+              <persname>Hollingsworth, Michael.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+              <persname>Video Cabaret Production.</persname>
+            </origination>
+            <unittitle>Nineteen Eighty-Four / based on the novel by George Orwell ; adapted and directed by Michael Hollingsworth, 1980 - performance file. 1980.</unittitle>
+            <physdesc>
+              <extent>1 file.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/627499577">
+        <relationEntry>Factory Theatre Lab Archives. 1984 / by George Orwell; video/theatre translation by Michael Hollingsworth, 1979 - unproduced reading script.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Factory Theatre Lab Archives.</persname>
+              <persname>Hollingsworth, Michael.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>1984 / by George Orwell; video/theatre translation by Michael Hollingsworth, 1979 - unproduced reading script. 1979.</unittitle>
+            <physdesc>
+              <extent>1 file.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/123430043">
+        <relationEntry>Orr, Charles Andrew, 1906-. Charles A. Orr papers, 1983-1993.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Orr, Charles Andrew, 1906-</persname>
+            </origination>
+            <unittitle>Charles A. Orr papers, 1983-1993.</unittitle>
+            <physdesc>
+              <extent>1 folder.</extent>
+            </physdesc>
+            <abstract>Autobiographical writings and miscellany, relating to socialism in the United States, conditions in Catalonia during the Spanish Civil War, and encounters with George Orwell in Spain in 1936-1937 and with Leon Trotsky in Mexico in 1940. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w60h47t5">Stanford University, Hoover Institution Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://archives.nypl.org/mss/2236">
+        <relationEntry>New Yorker records, ca.1924-1984</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>New Yorker records</unittitle>
+            <physdesc>
+              <extent>1058.76 linear feet; 2566 boxes; 7 microfilm reels; 18 sound recordings</extent>
+            </physdesc>
+            <abstract>Weekly magazine founded in New York City in 1925 by Harold W. Ross, Jane Grant, Alexander Woollcott and Raoul Fleischman. The records consist of correspondence, interoffice memoranda, edited and corrected manuscripts and typescripts, drawings, statistical reports, lists of story and art ideas, photographs, and sound recordings and printed materials created during the foundation and day-to-day operations of the magazine from 1924-1984. This material documents the production of every issue of the magazine and provides insight on the careers of its staff and contributors.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6cs6hd1">New York Public Library. Manuscripts and Archives Division</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/627499588">
+        <relationEntry>Shaw Festival Collection (University of Guelph). 1984 (Nineteen Hundred Eighty Four) / by George Orwell ; directed by Denise Coffey, Christopher Newton, Larry Lillo, Duncan McIntosh, Paul Reynolds, Wendy Toye and David Hemblen ; technical drawings by Charlotte Dean and Alanna Guinn, 1984.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Shaw Festival Collection (University of Guelph)</persname>
+              <persname>Guinn, Alanna.</persname>
+              <persname>Dean, Charlotte.</persname>
+              <persname>Hemblen, David.</persname>
+              <persname>Toye, Wendy.</persname>
+              <persname>Reynolds, Paul.</persname>
+              <persname>McIntosh, Duncan.</persname>
+              <persname>Lillo, Larry.</persname>
+              <persname>Newton, Christopher.</persname>
+              <persname>Coffey, Denise.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>1984 (Nineteen Hundred Eighty Four) / by George Orwell ; directed by Denise Coffey, Christopher Newton, Larry Lillo, Duncan McIntosh, Paul Reynolds, Wendy Toye and David Hemblen ; technical drawings by Charlotte Dean and Alanna Guinn, 1984. 1984.</unittitle>
+            <physdesc>
+              <extent>5 drawings.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/626689002">
+        <relationEntry>Shaw Festival Collection (University of Guelph). Nineteen eighty-four / by George Orwell ; props designed by (?), 1984 - Props : newspapers, buttons, cigarettes, flags, soda can, identification cards, identification crests, shopping bag.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Shaw Festival Collection (University of Guelph)</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Nineteen eighty-four / by George Orwell ; props designed by (?), 1984 - Props : newspapers, buttons, cigarettes, flags, soda can, identification cards, identification crests, shopping bag. 1984.</unittitle>
+            <physdesc>
+              <extent>57 items.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://id.lib.harvard.edu/ead/hou00448/catalog">
+        <relationEntry>Ruth Fischer papers, 1925-1961 (inclusive) 1940-1961 (bulk).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Fischer, Ruth, 1895-. </persname>
+            </origination>
+            <unittitle>Ruth Fischer papers</unittitle>
+            <physdesc>
+              <extent>167 boxes and 1 volume (84 linear ft.)</extent>
+            </physdesc>
+            <abstract>Papers of German politician and Communist Party leader Ruth Fischer.</abstract>
+            <langmaterial>
+              <language langcode="ger">German</language>
+              <language langcode="eng">English</language>
+              <language langcode="fre">French</language>
+              <language langcode="fre">French</language>
+              <language langcode="ger">German</language>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w67f3krh">Houghton Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/86167674">
+        <relationEntry>Orwell, George, 1903-1950. Nineteen Eighty-Four, 1946-1948.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Nineteen Eighty-Four, 1946-1948.</unittitle>
+            <physdesc>
+              <extent>143 l.</extent>
+            </physdesc>
+            <abstract>197 pages, of which 183 are handwritten and 14 are typewritten. Contains about 44% of the published text of Nineteen Eight-Four. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6c06xgz">Brown University Archives, John Hay Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/754872348">
+        <relationEntry>Milton, Harry. Harry Milton papers, 1937-1986.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Milton, Harry.</persname>
+              <persname>Trotsky, Leon, 1879-1940.</persname>
+            </origination>
+            <unittitle>Harry Milton papers, 1937-1986.</unittitle>
+            <physdesc>
+              <extent>1 oversize box, 1 envelope.</extent>
+            </physdesc>
+            <abstract>Letters, memoranda, clippings, and photographs, relating to the service of H. Milton with the Partido Obrero de Unificación Marxista (POUM) militia during the Spanish Civil War, his acquaintanceship with the writer George Orwell in the POUM militia, and miscellaneous activities of the Fourth International. Includes letters by Leon Trotsky. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w60h47t5">Stanford University, Hoover Institution Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/709879879">
+        <relationEntry>Orwell, George, 1903-1950. Letters 1935-1945.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Letters 1935-1945.</unittitle>
+            <physdesc>
+              <extent>99 items.</extent>
+            </physdesc>
+            <abstract>Consists of letters of Eric Arthur Blair, 1903-1950, novelist, known under the pseudonym of George Orwell, to his literary agent, Leonard Parker Moore, 1876-1959.  They deal with the publication of Blair's writings, including books, contributions to periodicals, book reviews, and dramatic criticisms; his contracts with Victor Gollancz, Ltd., and other publishers; reprints of his books; translations of his works into French, Polish, and other languages; lecture engagements; broadcasting; reviews of his books; the progress of current writing; plans for future writings; his participation in 1937 in the Spanish Civil War; his finances; his health; and other personal matters.  A few of the letters, 1937-1938, are written by Blair's wife, Eileen Maud (O'Shaughnessy) Blair,  -1945, who took care of her husband's business affairs while he was fighting in Spain in 1937 and during his illness in 1938. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6n11w06">Indiana University</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/7428531">
+        <relationEntry>Reginald, R. George Orwell's 1̲9̲8̲4̲--how close are we? / R. Reginald.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Reginald, R.</persname>
+            </origination>
+            <unittitle>George Orwell's 1̲9̲8̲4̲--how close are we? / R. Reginald. 1977.</unittitle>
+            <physdesc>
+              <extent>7, 9 leaves, 14 leaves of correspondence ; 29 cm.</extent>
+            </physdesc>
+            <abstract>Reproduction of an article which appeared on pages 52-56 of The People's Almanac #2, edited by David Wallechinsky and Irving Wallace, published by William Morrow &amp; Co., New York, 1978. Includes two drafts, plus relevant correspondence. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w64n9sxn">California State University, San Bernardino, John M. Pfau Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://dlib.nyu.edu/findingaids/html/tamwag/alba_008/alba_008.html">
+        <relationEntry>Nelson, Steve, 1903-. Steve Nelson papers, 1937-1991 (bulk 1950-1985).</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Nelson, Steve, 1903-</persname>
+            </origination>
+            <unittitle>Guide to the Steve Nelson Papers, 1937-1991</unittitle>
+            <physdesc>
+              <extent>12 Linear Feet in 11 record cartons and 1 oversize flat box</extent>
+            </physdesc>
+            <abstract>Steve Nelson (1903-1993) was a labor activist and organizer, former Communist Party official, Political Commissar in the Abraham Lincoln Brigade, and National Commander of the Veterans of the Abraham Lincoln Brigade (VALB). In the 1950s Nelson was convicted and imprisoned under the Pennsylvania Sedition Act and the Federal Smith Act. In 1957 he left the Communist Party following Khrushchev’s revelations of the atrocities that occurred under Stalin’s regime. Nelson authored two memoirs and an autobiography. Nelson’s papers reflect his political and personal activities including his participation in the Spanish Civil War, his six years of sedition trials and appeals, his writings, and his activities with VALB. His papers also include correspondence with friends and colleagues, which reflect the close interconnection between Nelson’s political and personal lives.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="spa">Spanish; Castilian</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63p2tmd">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/34367298">
+        <relationEntry>Walcutt, Sue. Letter [1968 July, n.p.] to "Binx" [i.e. Mary Cooley, Ann Arbor]</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Walcutt, Sue.</persname>
+              <persname>Cooley, Mary Elizabeth, 1904-1978.</persname>
+              <persname>Davison, Peter.</persname>
+            </origination>
+            <unittitle>Letter [1968 July, n.p.] to "Binx" [i.e. Mary Cooley, Ann Arbor]</unittitle>
+            <physdesc>
+              <extent>1 p. Typescript, initialed "S.G."</extent>
+            </physdesc>
+            <abstract>Concerns possible unsympathetic use of Ruth Pitter's recollections of George Orwell in a book by P. Stansky and W. Abrahams [published by Constable, 1972, as The unknown Orwell] </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6fc5s1h">University of Michigan</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/320409040">
+        <relationEntry>Fedotoff-White, D., (Dmitriĭ), 1889-1950. Dmitrii Nikolaevich Fedotoff-White Papers, ca. 1920-1955.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Fedotoff-White, D., (Dmitriĭ), 1889-1950.</persname>
+              <persname>Cunard, Anthony.</persname>
+              <persname>Florinsky, Mikhael T., 1894- .</persname>
+              <persname>Karpovich, Mikhail Mikhaĭlovich, 1888-1959.</persname>
+              <persname>Pares, Bernard Sir, 1867-1949.</persname>
+              <persname>Robinson, Geroid Tanquary, 1892-1972.</persname>
+              <persname>Lopukhova, Lidi︠a︡ Vasilʹevna, 1892-1987.</persname>
+              <persname>Mumford, Lewis, 1895- .</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Dmitrii Nikolaevich Fedotoff-White Papers, ca. 1920-1955.</unittitle>
+            <physdesc>
+              <extent>ca. 35,000 items (94 boxes).</extent>
+            </physdesc>
+            <abstract>Correspondence, manuscripts, photographs, subject files and printed materials. The correspondence includes letters from Michael Florinsky, Mikhail Karpovich, Bernard Pares, Geroid Robinson and George Vernadsky as well as one each from Lidii︠a︡ Lopukhova, Lewis Mumford and George Orwell. There is abundant correspondence relating to the Cunard Whitestar Line, notably from Anthony Cunard. The manuscripts include drafts of several of Fedotoff-White's books as well as copious notes and book reviews. There are subject files relating to his curriculum vitae, financial affairs, and his university studies. Among the printed materials are books (including several of his own), clippings, pamphlets, and brochures. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6nt1h9m">Columbia University in the City of New York, Columbia University Libraries</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://archives.nypl.org/brg/19306">
+        <relationEntry>John Middleton Murry collection of papers, 1911?]-1962</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Murry, John Middleton, 1889-1957</persname>
+            </origination>
+            <unittitle>John Middleton Murry collection of papers 1911?]-1962</unittitle>
+            <physdesc>
+              <extent>432 items</extent>
+            </physdesc>
+            <abstract>This is a synthetic collection consisting of correspondence and one typescript.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6bd4ncc">The New York Public Library. Henry W. and Albert A. Berg Collection of English and American Literature.</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/155516596">
+        <relationEntry>Lechoń, Jan, 1899-1956. Papers, 1938-1956.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Lechoń, Jan, 1899-1956.</persname>
+              <persname>Orwell, Geeorge, 1903-1950.</persname>
+              <persname>Wierzyński, Kazimierz, 1894-1969.</persname>
+            </origination>
+            <unittitle>Papers, 1938-1956.</unittitle>
+            <physdesc>
+              <extent>9 containers.</extent>
+            </physdesc>
+            <abstract>Letters to Lechon from over four hundred individuals; unsent personal letters by Lechon; official correspondence with Polish diplomatic and cultural organizations; single issues of TYGODNIK POLSKI (POLISH WEEKLY), TYGODNIOWY SERWIS LITERACKI KOŁA PISARZY Z POLSKI (WEEKLY LITERARY SERVICE OF THE CIRCLE OF WRITERS FROM POLAND); manuscripts on Polish authors and literature including Mickiewicz, Zeromski, Fredro, Tuwim, and Boy-Zelenski; articles and notes on Polish history; fragments from his diary; and BAL U SENATORA, AMERICAN TRANSFORMATION, KARMAZYNOWY POEMAT, manuscripts of two plays, DIALOG and GODZINA PRZESTROGI, and a dramatization of Orwell's 1984.  Included are personal papers, notes, doodles and sketches, financial records, and photographs.  Also, correspondence and personal papers of Kazimierz Wierzynski, as well as signed manuscripts of works written by other authors.  Correspondence with organizations including the Polish Institute of Arts and Sciences of America, National Committee for a Free Europe, Paderewski Foundation, Liga Kobiet, American Friends of Captive Nations, B.B.C., Librairie Polonaise a Paris, Józef Piłsudski Institute of America, and Radio Free Europe. </abstract>
+            <langmaterial>
+              <language langcode="pol">Polish</language>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6kq8qkp">Campbell University, Wiggins Memorial Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/122686844">
+        <relationEntry>Murry, John Middleton, 1889-1957. John Middleton Murry collection of papers, [1911?]-1962.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Murry, John Middleton, 1889-1957.</persname>
+              <persname>Blunden, Edmund, 1896-1974.</persname>
+              <persname>Eliot, T. S. (Thomas Stearns), 1888-1965.</persname>
+              <persname>Fremantle, Anne, 1909-2002.</persname>
+              <persname>Housman, Laurence, 1865-1959.</persname>
+              <persname>Huxley, Aldous, 1894-1963.</persname>
+              <persname>Lea, F. A. (Frank Alfred), 1915-1977.</persname>
+              <persname>Marsh, Edward Howard, Sir, 1872-1953.</persname>
+              <persname>Moult, Thomas.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+              <persname>Pinker, Eric.</persname>
+              <persname>Plowman, Max, 1883-1941.</persname>
+              <persname>Rees, Richard, 1900-</persname>
+              <persname>Sadleir, Michael, 1888-1957.</persname>
+              <persname>Swinnerton, Frank, 1884-1982.</persname>
+              <persname>Votier, A. W.</persname>
+              <persname>Williamson, Henry, 1895-1977.</persname>
+              <persname>Wolfe, Humbert, 1885-1940.</persname>
+              <persname>Woolf, Leonard, 1880-1969.</persname>
+              <persname>Woolf, Virginia, 1882-1941.</persname>
+              <persname>Gordan, John Dozier, 1907-1968,</persname>
+            </origination>
+            <unittitle>John Middleton Murry collection of papers, [1911?]-1962.</unittitle>
+            <physdesc>
+              <extent>200 items.</extent>
+            </physdesc>
+            <abstract>This is a synthetic collection consisting of a typescript and correspondence by and about the author. </abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="fre">French</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6nt1hgv">New York Public Library System, NYPL</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/49004472">
+        <relationEntry>Fen, Elisaveta. Elisaveta Fen papers.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Fen, Elisaveta.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Elisaveta Fen papers. 1910-1984.</unittitle>
+            <physdesc>
+              <extent/>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w65j86pc">Brotherton Library, University of Leeds</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/626689006">
+        <relationEntry>Shaw Festival Collection (University of Guelph). Nineteen Eighty-Four (1984) / by George Orwell ; directed by Johanna Mercer, 1984 - performance file.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Shaw Festival Collection (University of Guelph)</persname>
+              <persname>Mercer, Johanna.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>Nineteen Eighty-Four (1984) / by George Orwell ; directed by Johanna Mercer, 1984 - performance file. 1984.</unittitle>
+            <physdesc>
+              <extent>35 files.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/606455598">
+        <relationEntry>Woodcock, George, 1912-1995. George Woodcock fonds.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Woodcock, George, 1912-1995.</persname>
+            </origination>
+            <unittitle>George Woodcock fonds. 1945-1949, 1954-1956.</unittitle>
+            <physdesc>
+              <extent>6.5 cm of textual records.</extent>
+            </physdesc>
+            <abstract>The fonds consists of photocopied correspondence with George Orwell (1945-1949) and copies of radio scripts from Woodcock's broadcasts (1954-1956). </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6wb5ztk">University of British Columbia Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="" xlink:href="http://www.worldcat.org/oclc/606455598">
+        <relationEntry/>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Woodcock, George, 1912-1995.</persname>
+            </origination>
+            <unittitle>George Woodcock fonds. 1945-1949, 1954-1956.</unittitle>
+            <physdesc>
+              <extent>6.5 cm of textual records.</extent>
+            </physdesc>
+            <abstract>The fonds consists of photocopied correspondence with George Orwell (1945-1949) and copies of radio scripts from Woodcock's broadcasts (1954-1956). </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6wb5ztk">University of British Columbia Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/647938361">
+        <relationEntry>Miller, Henry, 1891-1980. Papers of Henry Miller [manuscript] 1932-1964.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Miller, Henry, 1891-1980.</persname>
+              <persname>Perlès, Alfred.</persname>
+              <persname>Connolly, Cyril, 1903-1974,</persname>
+              <persname>Durrell, Lawrence George, 1912-</persname>
+              <persname>Eliot, T. S. (Thomas Stearns), 1888-1965,</persname>
+              <persname>Lowenfels, Walter, 1897-1976,</persname>
+              <persname>McCarthy, Desmond, Sir, 1878-1952,</persname>
+              <persname>Mencken, H. L. (Henry Louis), 1880-1956,</persname>
+              <persname>Nin, Anaïs, 1903-1977</persname>
+              <persname>Pound, Ezra, 1885-1972,</persname>
+              <persname>Read, Herbert, 1893-1968</persname>
+              <persname>Roberts, Collette Levy, 1910-</persname>
+              <persname>Rosenfeld, Paul, 1890-1946</persname>
+              <persname>Williams, William Carlos, 1883-1963</persname>
+              <persname>Orwell, George, 1903-1950</persname>
+              <persname>Freeman, Walter,</persname>
+              <persname>Kidis, John,</persname>
+              <persname>Venetikos, Alexandres,</persname>
+              <persname>Armitage, Merle, 1893-1975</persname>
+              <persname>Redl, Harry</persname>
+              <persname>Morley, Christopher, 1890-1957</persname>
+            </origination>
+            <unittitle>Papers of Henry Miller [manuscript] 1932-1964.</unittitle>
+            <physdesc>
+              <extent>133 items.</extent>
+            </physdesc>
+            <abstract>The collection contains partial or complete manuscripts of "Berthe," used in Quiet days in Clichy, Coda, Mejores no hay!, "Reunion in Barelona," from Aller retour New York, The new instinctivism, written with Alfred Perles, prefaces for The tropic of Cancer, and The time of the assassins, The St. Francis of Deltiel, Text for 'Esprit' and a section on H. Rider Haggard from Books in my life, Stand still like the hummingbird, The smile at the foot of the ladder, "This is my answer," from Big Sur and the oranges of Hieronymus Bosch, "To paint is to love again," an essay on Walt Whitman, The waters reglitterized, letters regarding Eugene Lonesco in Two worlds, Hamlet vs. Hamlet, "Of art and the future," "Picodiribibi" and a section on Vincent Van Gogh from Plexus, a section of "Peace and solitude" from Big Sur ..., page proofs of Letters to Anais Nin, and an early outline of Rosy Crucifixion. In his correspondence Miller discusses his writing, particularly Tropic of Cancer, publication and distribution difficulties, publicity, his reading and daily activities, his family, financial difficulties, water-colors, and his criticism of the work of others, especially Walter Lowenfels and Aldous Huxley. Of interest are transcripts of letters and reviews regarding his earlier work by Cyril Connolly, Lawrence George Durrell, Thomas Stearns Eliot, Aldous Leonard Huxley, Walter Lowenfels, Sir Desmond McCarthy, Henry Louis Mencken, Anäis Nin, Ezra Loomis Pound, Herbert Read, Collette (Levy) Roberts, Paul Rosenfeld, William Carlos Williams, and George Orwell. The collection also contains some of Miller's water-colors; two annotated bibliographies; a 1959 Henry Miller Literary Society Newsletter; a solicitation, The story of George Dibbern's quest, photographs; and The outsider, Vol. 1, no. 1, 1961, containing Miller-Lowenfels correspondence. Correspondents include Walter Freeman, John Kidis, Alexandres Venetikos, Lowenfels, Merle Armitage, Harry Redl, Christopher Darlington Morley and Anäis Nin. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6z71c2r">University of Virginia. Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.worldcat.org/oclc/123373337">
+        <relationEntry>Štanský, Peter. Peter Stansky miscellaneous papers, 1937-1987.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Štanský, Peter.</persname>
+              <persname>Milton, Harry.</persname>
+            </origination>
+            <unittitle>Peter Stansky miscellaneous papers, 1937-1987.</unittitle>
+            <physdesc>
+              <extent>1 folder.</extent>
+            </physdesc>
+            <abstract>Correspondence with Harry Milton and others, radio broadcast transcript, clippings, photographs, and miscellany, relating to the acquaintanceship of Milton with the British writer George Orwell in Spain during the Spanish Civil War. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w60h47t5">Stanford University, Hoover Institution Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://dlib.nyu.edu/findingaids/html/tamwag/tam_154/tam_154.html">
+        <relationEntry>Carl Aldo Marzani Papers, Bulk, 1935-1975, [1890]-1994, (Bulk 1935-1975)</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Marzani, Carl</persname>
+            </origination>
+            <unittitle>Carl Aldo Marzani Papers Bulk, 1935-1975 [1890]-1994, (Bulk 1935-1975)</unittitle>
+            <physdesc>
+              <extent>18.5 linear feet; (38 boxes)</extent>
+            </physdesc>
+            <abstract>Carl Marzani (1912-1994)was an Italian-American immigrant radical and briefly a Communist Party, USA organizer on New York City's Lower East Side. He served in the Office of Strategic Services during World War II and briefly thereafter in the State Department. He was also a political documentary filmmaker, the author of six books and numerous articles, and as an editor and publisher, first translated and published portions of the work of the Italian Marxist, Antonio Gramsci. Marzani served almost three years in prison, from 1947-1950, for concealing his prewar Party membership while he was employed by the government. He lived and worked in New York City most of his life. This collection of papers includes his correspondence, manuscripts, and ephemera. NOTE: This collection is housed offsite and advance notice is required for use.</abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w63p2tmd">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/627499592">
+        <relationEntry>Shaw Festival Collection (University of Guelph). 1984 (Nineteen Eighty Four) / by George Orwell, 1984 - Production Photos.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Shaw Festival Collection (University of Guelph)</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>1984 (Nineteen Eighty Four) / by George Orwell, 1984 - Production Photos. 1984.</unittitle>
+            <physdesc>
+              <extent>3 b&amp;w photos, 20 x 25 cm. ; 38 b&amp;w contact sheets, 20 x 25 cm. ; 3 b&amp;w transparencies ; 25 col. slides ; 1 b/w picture, oversize.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://www.oac.cdlib.org/ark:/13030/kt1n39r4g4">
+        <relationEntry>Charles A. Orr papers, 1983-1993</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Orr, Charles A. (Charles Andrew)</persname>
+            </origination>
+            <unittitle>Charles A. Orr papers 1983-1993</unittitle>
+            <physdesc>
+              <extent>1 folder; (0,2 linear feet)</extent>
+            </physdesc>
+            <abstract>Autobiographical writings and miscellany, relating to socialism in the United States, conditions in Catalonia during the Spanish Civil War, and encounters with George Orwell in Spain in 1936-1937 and with Leon Trotsky in Mexico in 1940. Photocopy.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6mh8c79">Hoover Institution Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/626689011">
+        <relationEntry>NDWT Archives (University of Guelph). 1984 / by George Orwell ; adapted by Michael Hollingsworth, 1979 - unproduced reading script.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>NDWT Archives (University of Guelph)</persname>
+              <persname>Hollingsworth, Michael.</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+            </origination>
+            <unittitle>1984 / by George Orwell ; adapted by Michael Hollingsworth, 1979 - unproduced reading script. 1979.</unittitle>
+            <physdesc>
+              <extent>1 item.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/627499584">
+        <relationEntry>Shaw Festival Collection (University of Guelph). 1984 (Nineteen Eighty-Four) / by George Orwell ; directed by Denise Coffey, Christopher Newton, Larry Lillo, Duncan McIntosh, Paul Raynolds, Wendy Toye and David Hemblen, 1984 - videotape.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Shaw Festival Collection (University of Guelph)</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+              <persname>Hemblen, David.</persname>
+              <persname>McIntosh, Duncan.</persname>
+              <persname>Lillo, Larry.</persname>
+              <persname>Coffey, Denise.</persname>
+              <persname>Newton, Christopher.</persname>
+            </origination>
+            <unittitle>1984 (Nineteen Eighty-Four) / by George Orwell ; directed by Denise Coffey, Christopher Newton, Larry Lillo, Duncan McIntosh, Paul Raynolds, Wendy Toye and David Hemblen, 1984 - videotape. 1984.</unittitle>
+            <physdesc>
+              <extent>1 videotape.</extent>
+            </physdesc>
+            <abstract/>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6rc7wnc">University of Guelph. McLaughlin Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://hdl.handle.net/10079/fa/mssa.ms.0730">
+        <relationEntry>Dwight Macdonald papers, 1865-1984, 1920-1978</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>MacDonald, Dwight.</persname>
+            </origination>
+            <unittitle>Dwight Macdonald papers</unittitle>
+            <physdesc>
+              <extent>94.25 linear feet</extent>
+            </physdesc>
+            <abstract>The papers consist of correspondence, manuscripts, notes, printed material, photographs, audiotapes, and memorabilia documenting the personal life and professional career of Dwight Macdonald. Macdonald's literary career, political activities, teaching and speaking engagements, and personal life are detailed. Major subjects represented in the papers include: communism and the Trotskyite movement, journalism and publishing, American social and political life (1920s-1970s), pacifism, and the Congress for Cultural Freedom. Correspondence files include letters with many prominent intellectual and political figures.</abstract>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="eng">English</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w60t0c7s">Yale University. Department of Manuscripts and Archives</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#referencedIn" xlink:href="http://archiveshub.ac.uk/data/gb237-coll-146">
+        <relationEntry>The Koestler Archive &amp;amp; Other Papers Relating to Arthur Koestler, 1939-1993</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <unittitle>The Koestler Archive &amp;amp; Other   Papers Relating to Arthur Koestler 1939-1993</unittitle>
+            <physdesc>
+              <extent>circa 1000 books; 172 boxes (24 linear metres); 4   record albums.</extent>
+            </physdesc>
+            <abstract/>
+            <langmaterial>
+              <language langcode="eng">English</language>
+              <language langcode="fre">French</language>
+              <language langcode="ger">German</language>
+            </langmaterial>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w67f3mgb">Edinburgh University Library</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+      <resourceRelation xlink:type="simple" xlink:role="http://socialarchive.iath.virginia.edu/control/term#ArchivalResource" xlink:arcrole="http://socialarchive.iath.virginia.edu/control/term#creatorOf" xlink:href="http://www.worldcat.org/oclc/144652344">
+        <relationEntry>Danielson, Richard Ely, 1885-1957. Richard Ely Danielson papers, 1940-1948.</relationEntry>
+        <objectXMLWrap>
+          <did xmlns="urn:isbn:1-931666-22-9">
+            <origination>
+              <persname>Danielson, Richard Ely, 1885-1957.</persname>
+              <persname>Armstrong, Hamilton Fish, 1893-1973.</persname>
+              <persname>Biddle, George, 1885-1973.</persname>
+              <persname>Ciardi, John, 1916-1986.</persname>
+              <persname>Dunsany, Edward John Moreton Drax Plunkett, Baron, 1878-1957.</persname>
+              <persname>Einstein, Albert, 1879-1955.</persname>
+              <persname>Lindbergh, Charles A. (Charles Augustus), 1902-1974.</persname>
+              <persname>Lindbergh, Anne Morrow, 1906-2001.</persname>
+              <persname>Mauldin, Bill, 1921-2003.</persname>
+              <persname>Miller, Douglas Phillips, 1892-</persname>
+              <persname>Orwell, George, 1903-1950.</persname>
+              <persname>Sedgwick, Ellery, 1872-1960.</persname>
+              <persname>Thomas, Dylan, 1914-1953.</persname>
+              <persname>Toynbee, Arnold, 1889-1975.</persname>
+              <persname>Villard, Oswald Garrison, 1872-1949.</persname>
+              <persname>Willkie, Wendell L. (Wendell Lewis), 1892-1944.</persname>
+              <persname>Zinsser, Hans, 1878-1940.</persname>
+            </origination>
+            <unittitle>Richard Ely Danielson papers, 1940-1948.</unittitle>
+            <physdesc>
+              <extent>.4 linear foot (1 box)</extent>
+            </physdesc>
+            <abstract>Collection consists of authors' typescripts and proofs of articles and poems published in The Atlantic Monthly, and some correspondence. </abstract>
+            <repository>
+              <corpname authfilenumber="http://n2t.net/ark:/99166/w6nt1hgv">New York Public Library System, NYPL</corpname>
+            </repository>
+          </did>
+        </objectXMLWrap>
+      </resourceRelation>
+    </relations>
+  </cpfDescription>
+</eac-cpf>

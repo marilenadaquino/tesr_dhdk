@@ -1,0 +1,946 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gold: <http://purl.org/linguistics/gold/> .
+@prefix ns1: <http://example.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/1913> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1913_in_art> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1936> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1936_in_art> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1937_in_the_Spanish_Civil_War> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1943_Naples_post-office_bombing> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1944_in_art> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1948_in_literature> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1954> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1954_in_art> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/1954_in_the_United_States> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/2025_in_public_domain> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Agustí_Centelles> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Albert_Edouard_Gilou> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Alexander_Liberman> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Alfred_Eisenstaedt> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Allan_Grant> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/American_Masters> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/André_Kertész> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Angelika_Platen> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/April_1918> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Association_des_Écrivains_et_Artistes_Révolutionnaires> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ata_Kandó> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Australian_Centre_for_Photography> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Bart's_Dog_Gets_an_%22F%22> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Battle_of_Cerro_Muriano> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Battle_of_Teruel> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Battle_of_the_Segre> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Black_Star_(photo_agency)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Boris_Lipnitzki> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Bystander:_A_History_of_Street_Photography> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Bülent_Kılıç> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/CAPA> dbo:wikiPageDisambiguates <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/CAPA_agency> dbo:wikiPageRedirects <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Camera_(magazine)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Camera_Mainichi> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Camp_de_concentration_d'Argelès-sur-Mer> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Carl_Perutz> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Carl_Zeiss_AG> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ce_soir> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Chalet_Eugenia> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Château_de_Tours> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Cité_nationale_de_l'histoire_de_l'immigration> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Confederación_Nacional_del_Trabajo> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Confederal_militias> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Crowds_Running_for_Shelter_When_the_Air-raid_Alarm_Sounded> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Dan_Weiner> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/David_C._Turnley> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/David_Douglas_Duncan> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Dennis_Morris_(photographer)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Dezo_Hoffmann> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Dezső_Révai> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Documenta_6> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Donald_Margulies> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Doreen_Spooner> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ed_Feingersh> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ed_van_der_Elsken> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Elliott_Erwitt> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Endre_Erno_Friedmann> dbo:wikiPageRedirects <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Endre_Ernő_Friedmann> dbo:wikiPageRedirects <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Endre_Friedmann> dbo:wikiPageRedirects <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Erich_Hartmann_(photographer)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ernest_Friedmann> dbo:wikiPageRedirects <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ernst_Haas> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ervin_Hervé-Lóránth> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Eva_Besnyö> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Federico_Borrell_García> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Fine-art_photography> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Floyd_MacMillan_Davis> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Fortepan> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Fraenkelufer_Synagogue> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/François_Tuefferd> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Friedman> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Gisèle_Freund> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Goran_Višnjić> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Group_M> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Guernica_(2016_film)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Hans_Wild> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Hemingway_&_Gellhorn> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Henri_Huet> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Herbert_List> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Hermann_Claasen> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/History_of_Spanish_photojournalism> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/History_of_the_Jews_in_Vietnam> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Holy_Sepulchre_Cemetery_(Rochester,_New_York)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Howard_Hawks> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Igael_Tumarkin> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Index_of_World_War_II_articles_(R)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Inge_Morath> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Jane_Rogoyska> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Jay_Allen> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Jerry_Cooke_(photographer)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/John_Flynn_(director)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Jojo_Rabbit> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Joris_Ivens> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Judit_Kárász> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Julia_Hasting> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Julius_Strauss> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/June_1944> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Jürgen_Möller> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Kate_Mangan> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Kati_Horna> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ken_Bell> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Kenji_Higuchi> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Kilroy_was_here> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Klosters> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/La_sombra_del_iceberg> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Larry_Burrows> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Le_Dôme_Café> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Le_Rectangle> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Leonora_Carrington> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Libertarian_Youth> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Liceo_Sannazaro> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Lindsey_Ross> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_American_artists_1900_and_after> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_Hungarian_Americans> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_Hungarian_Jews> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_battles_1901–2000> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_burials_at_Père_Lachaise_Cemetery> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_foreign_correspondents_in_the_Spanish_Civil_War> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_people_from_Budapest> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_photographers> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_photographs_considered_the_most_important> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_photojournalists> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_travel_books> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/List_of_war_correspondents> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Louise_Tolliver_Deutschman> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Love_Is_the_King> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Low-key_photography> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Lydia_Zimmermann> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Léon_Herschtritt> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Manité> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Marc_Riboud> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Marilyn_Stafford> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Mathias_Braschler_and_Monika_Fischer> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/May_1954> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/May_25> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Micha_Bar-Am> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Modern_Times:_Photography_in_the_20th_Century> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Museo_Civico_di_Bassano> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Nansen_passport> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Nat_Finkelstein> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_northern_Westchester_County,_New_York> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Nikos_Economopoulos> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Nobunagun> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Notorious_(1946_film)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/October_1913> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/October_22> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/On_the_Spot_(Hungarian_TV_series)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Otto_Hagel> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Otto_Umbehr> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/PIX_Publishing> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/PM_(newspaper)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Pavel_Wolberg> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Peter_Collinson_(film_director)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Peter_Härtling> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Philip_Gefter> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Photographic_Center_of_Skopelos> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Photography_in_China> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ralph_Morse> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Regards> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Robert> dbo:wikiPageDisambiguates <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Robin_Stummer> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Rolleiflex> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Réalités_(French_magazine)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Seducing_Ingrid_Bergman> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Sefton_Samuels> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/September_1936> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Sha_Fei> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Sicilian_Peasant_Telling_an_American_Officer_Which_Way_the_Germans_Had_Gone> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Sierra_Morena> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Simone_Segouin> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Some_Still_Live> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Spanish_Marine_Infantry> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Spanish_Republican_Navy> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Stefan_Lorant> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Storyville_(TV_series)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Suzy_Parker> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Tarō_Okamoto> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Temporary_exhibitions_at_the_Art_Gallery_of_New_South_Wales> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Temptation_(1946_film)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_400_Million> dbo:cinematography <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> ;
+    dbp:cinematography <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Family_of_Man> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Ghosts_of_Christmas> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Magnificent_Eleven> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Photographers'_Gallery> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Timeline_of_art> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Tošo_Dabac> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/United_Technologies> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Vu_(magazine)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Walter_Reuter> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Werner_Bischof> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/William_Vandivert> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/William_Walton_(painter)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Willy_Ronis> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Yan_Morvan> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Yolanda_Cuomo> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+ns1:gerda_taro ns1:hasSpouse ns1:robert_capa .
+
+<http://dbpedia.org/resource/A_Russian_Journal> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Alex_Kershaw> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Alfred_Hitchcock> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Alt-J> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Cornell_Capa> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/David_Seymour_(photographer)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Death_in_the_Making> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Diana_Forbes-Robertson> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Falco_(musician)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Generation_X> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Gerda_Taro> dbo:partner <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> ;
+    dbp:partner <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Henri_Cartier-Bresson> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Ingrid_Bergman> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/International_Center_of_Photography> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/International_Photography_Hall_of_Fame_and_Museum> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Irwin_Shaw> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/James_Stewart> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/John_G._Morris> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/John_Steinbeck> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Life_(magazine)> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Magnum_Photos> dbo:foundedBy <http://dbpedia.org/resource/Robert_Capa> ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Photojournalism> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Raymond_J._Bowman> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Robert_Capa_Gold_Medal> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Spanish_Civil_War> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Battle_of_Waterloo_Road> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Falling_Soldier> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Mexican_Suitcase> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Picture_of_the_Last_Man_to_Die> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/The_Shaved_Woman_of_Chartres> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/War_photography> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Will_Lang_Jr.> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://en.wikipedia.org/wiki/Robert_Capa> foaf:primaryTopic <http://dbpedia.org/resource/Robert_Capa> .
+
+ns1:robert_capa ns1:knows ns1:henri_cartier_bresson .
+
+<http://dbpedia.org/resource/Amawalk_Friends_Meeting_House> dbo:wikiPageWikiLink <http://dbpedia.org/resource/Robert_Capa> .
+
+<http://dbpedia.org/resource/Robert_Capa> a <http://dbpedia.org/class/yago/Absentee109757653>,
+        <http://dbpedia.org/class/yago/Artist109812338>,
+        <http://dbpedia.org/class/yago/CausalAgent100007347>,
+        <http://dbpedia.org/class/yago/Communicator109610660>,
+        <http://dbpedia.org/class/yago/Correspondent109966710>,
+        <http://dbpedia.org/class/yago/Creator109614315>,
+        <http://dbpedia.org/class/yago/Emigrant110051975>,
+        <http://dbpedia.org/class/yago/Exile110071332>,
+        <http://dbpedia.org/class/yago/Journalist110224578>,
+        <http://dbpedia.org/class/yago/LivingThing100004258>,
+        <http://dbpedia.org/class/yago/Migrant110314952>,
+        <http://dbpedia.org/class/yago/Object100002684>,
+        <http://dbpedia.org/class/yago/Organism100004475>,
+        <http://dbpedia.org/class/yago/Person100007846>,
+        <http://dbpedia.org/class/yago/Photographer110426749>,
+        <http://dbpedia.org/class/yago/Photojournalist110427223>,
+        <http://dbpedia.org/class/yago/PhysicalEntity100001930>,
+        <http://dbpedia.org/class/yago/Traveler109629752>,
+        <http://dbpedia.org/class/yago/Unfortunate109630641>,
+        <http://dbpedia.org/class/yago/Victim110752093>,
+        <http://dbpedia.org/class/yago/WarCorrespondent110766718>,
+        <http://dbpedia.org/class/yago/Whole100003553>,
+        <http://dbpedia.org/class/yago/WikicatAmericanJournalists>,
+        <http://dbpedia.org/class/yago/WikicatAmericanPeople>,
+        <http://dbpedia.org/class/yago/WikicatAmericanPeopleOfHungarian-JewishDescent>,
+        <http://dbpedia.org/class/yago/WikicatAmericanPeopleOfHungarianDescent>,
+        <http://dbpedia.org/class/yago/WikicatAmericanPhotographers>,
+        <http://dbpedia.org/class/yago/WikicatAmericanPhotojournalists>,
+        <http://dbpedia.org/class/yago/WikicatFrenchPeople>,
+        <http://dbpedia.org/class/yago/WikicatHungarianEmigrantsToTheUnitedStates>,
+        <http://dbpedia.org/class/yago/WikicatHungarianExpatriatesInFrance>,
+        <http://dbpedia.org/class/yago/WikicatHungarianPeople>,
+        <http://dbpedia.org/class/yago/WikicatHungarianPhotographers>,
+        <http://dbpedia.org/class/yago/WikicatHungarianPhotojournalists>,
+        <http://dbpedia.org/class/yago/WikicatLandmineVictims>,
+        <http://dbpedia.org/class/yago/WikicatMagnumPhotographers>,
+        <http://dbpedia.org/class/yago/WikicatOperationOverlordPeople>,
+        <http://dbpedia.org/class/yago/WikicatPeopleFromBudapest>,
+        <http://dbpedia.org/class/yago/WikicatPeopleOfTheSpanishCivilWar>,
+        <http://dbpedia.org/class/yago/WikicatPhotographers>,
+        <http://dbpedia.org/class/yago/WikicatPhotojournalists>,
+        <http://dbpedia.org/class/yago/WikicatPolishPhotographers>,
+        <http://dbpedia.org/class/yago/WikicatPolishPhotojournalists>,
+        <http://dbpedia.org/class/yago/WikicatSocialDocumentaryPhotographers>,
+        <http://dbpedia.org/class/yago/WikicatWarCorrespondents>,
+        <http://dbpedia.org/class/yago/WikicatWarPhotographers>,
+        <http://dbpedia.org/class/yago/WikicatWriters>,
+        <http://dbpedia.org/class/yago/Writer110794014>,
+        <http://dbpedia.org/class/yago/YagoLegalActor>,
+        <http://dbpedia.org/class/yago/YagoLegalActorGeo>,
+        dbo:Animal,
+        dbo:Artist,
+        dbo:Eukaryote,
+        dbo:Person,
+        dbo:Species,
+        schema:Person,
+        <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson>,
+        owl:Thing,
+        <http://www.wikidata.org/entity/Q19088>,
+        <http://www.wikidata.org/entity/Q215627>,
+        <http://www.wikidata.org/entity/Q483501>,
+        <http://www.wikidata.org/entity/Q5>,
+        <http://www.wikidata.org/entity/Q729>,
+        foaf:Person ;
+    rdfs:label "روبرت كابا"@ar,
+        "Robert Capa"@ca,
+        "Robert Capa"@cs,
+        "Robert Capa"@de,
+        "Ρόμπερτ Κάπα"@el,
+        "Robert Capa"@en,
+        "Robert Capa"@eo,
+        "Robert Capa"@es,
+        "Robert Capa"@eu,
+        "Robert Capa"@fr,
+        "Robert Capa"@ga,
+        "Robert Capa"@in,
+        "Robert Capa"@it,
+        "ロバート・キャパ"@ja,
+        "로버트 카파"@ko,
+        "Robert Capa"@nl,
+        "Robert Capa"@pl,
+        "Robert Capa"@pt,
+        "Роберт Капа"@ru,
+        "Robert Capa"@sv,
+        "Роберт Капа"@uk,
+        "罗伯特·卡帕"@zh ;
+    dbo:abstract "روبرت كابا (بالفرنسية: Robert Capa)‏ ـ (ولد باسم فريدمان إندري (بالمجرية: Friedmann Endre) في 22 أكتوبر 1913 - 25 مايو 1954) مصور حرب ومصور صحفي مجري غطى خمس حروب هي الحرب الأهلية الإسبانية والحرب اليابانية الصينية الثانية والحرب العالمية الثانية في أوروبا وحرب فلسطين سنة 1948 والحرب الهندوصينية الأولى. وثق سير الحرب العالمية الثانية في لندن وشمال أفريقيا وإيطاليا ومعركة نورماندي على شاطئ أوماها، وكذلك تحرير باريس. في سنة 1947 اشترك كابا مع ديفيد سيمور وهنري كارتييه بريسون وجورج رودجر ووليم فانديفيرت في تأسيس «ماغنم فوتوز» (بالإنجليزية: Magnum Photos)‏ في باريس، لتكون أول وكالة تعاونية في العالم ضمت أكثر من مصور حر. لقي كابا حتفه عصر يوم 25 مايو 1954، إثر انفجار لغم أرضي فيه أثناء تغطيته للحرب الهندوصينية الأولى بصحبة القوات الفرنسية."@ar,
+        "Robert Capa (Budapest, Hongria, 22 d'octubre de 1913 - Thai Binh, Vietnam, 25 de maig de 1954), és el pseudònim que representa la parella de fotògrafs Friedmann Endre Ernő i Gerda Taro. Van ser uns dels fotògrafs dels corresponsals de la guerra més famosos del segle xx. El soldat caigut (1936), La batalla del riu Segre (1938) i Refugiats de Barcelona (1939) centren la seva crònica de la guerra civil espanyola. Xina (1938) documenta el conflicte sinojaponès i, finalment, El Dia D (1944) i Alliberament de Leipzig (1945) presenten les seves fotografies de la Segona Guerra Mundial."@ca,
+        "Robert Capa (vlastním jménem Endre Friedmann) (22. října 1913, Budapešť – 25. května 1954, , Vietnam) byl maďarský válečný fotograf, fotožurnalista a spoluzakladatel agentury Magnum Photos. Absolvoval pět různých válek – španělskou občanskou válku v letech 1936–1939, druhou čínsko-japonskou válku, druhou světovou válku, první arabsko-izraelskou válku a válku indočínskou."@cs,
+        "Robert Capa (eigentlich Endre Ernő Friedmann, in anderen Schreibweisen auch André Friedmann oder Andrei Friedmann; * 22. Oktober 1913 in Budapest, Österreich-Ungarn; † 25. Mai 1954 in Thái-Bình in der Provinz Thái Bình, Französisch-Indochina) war ein ungarisch-US-amerikanischer Fotograf. Capa wurde vor allem als Kriegsreporter bekannt. Mehrere seiner Aufnahmen von Kriegsschauplätzen erlangten eine ikonische Bedeutung im öffentlichen Bewusstsein wie die vom Spanischen Bürgerkrieg oder die von der Landung der alliierten Streitkräfte am Strand der Normandie (am D-Day im Zweiten Weltkrieg)."@de,
+        "Ο Ρόμπερτ Κάπα (Robert Capa, πραγματικό όνομα: Endre Ernő Friedmann, 22 Οκτωβρίου 1913 – 25 Μαΐου 1954) ήταν Ούγγρος πολεμικός φωτογράφος και φωτορεπόρτερ που κάλυψε πέντε διαφορετικούς πολέμους: τον Ισπανικό εμφύλιο πόλεμο, τον Β΄ Σινοϊαπωνικό πόλεμο, τον Β΄ Παγκόσμιο Πόλεμο σε όλη την Ευρώπη, τον του 1948, και τον . Κατέγραψε την πορεία του Β΄ Παγκοσμίου Πολέμου στο Λονδίνο, την Βόρειο Αφρική, την Ιταλία, την Απόβαση της Νορμανδίας στην παραλία Όμαχα (Omaha Beach) και την απελευθέρωση του Παρισιού. Οι εν δράσει φωτογραφίες του, όπως εκείνες που ελήφθησαν κατά την απόβαση στη Νορμανδία το 1944, απεικονίζουν τη βία του πολέμου με μοναδικό τρόπο. Το 1947, ο Κάπα υπήρξε ο συνιδρυτής του με, ανάμεσα σε άλλους, τον Γάλλο φωτογράφο Ανρί Καρτιέ Μπρεσόν. Ο οργανισμός αυτός υπήρξε το πρώτο συνεργατικό πρακτορείο για ανεξάρτητους φωτογράφους σε παγκόσμια κλίμακα."@el,
+        "Robert Capa (born Endre Ernő Friedmann; October 22, 1913 – May 25, 1954) was a Hungarian-American war photographer and photojournalist as well as the companion and professional partner of photographer Gerda Taro. He is considered by some to be the greatest combat and adventure photographer in history. Capa had fled political repression in Hungary when he was a teenager, moving to Berlin, where he enrolled in college. He witnessed the rise of Hitler, which led him to move to Paris, where he met and began to work with Gerta Pohorylle. Together they worked under the alias Robert Capa and became photojournalists. Though she contributed to much of the early work, she quickly created her own alias 'Gerda Taro' and they began to publish their work separately. He subsequently covered five wars: the Spanish Civil War, the Second Sino-Japanese War, World War II across Europe, the 1948 Arab–Israeli War, and the First Indochina War, with his photos published in major magazines and newspapers. He was killed when he stepped on a landmine in Vietnam. During his career he risked his life numerous times, most dramatically as the only civilian photographer landing on Omaha Beach on D-Day. He documented the course of World War II in London, North Africa, Italy, and the liberation of Paris. His friends and colleagues included Ernest Hemingway, Irwin Shaw, John Steinbeck and director John Huston. In 1947, for his work recording World War II in pictures, U.S. general Dwight D. Eisenhower awarded Capa the Medal of Freedom. That same year, Capa co-founded Magnum Photos in Paris. The organization was the first cooperative agency for worldwide freelance photographers. Hungary has issued a stamp and a gold coin in his honor."@en,
+        "Robert CAPA (\"RObert KApa\", baptonomo: FRIEDMANN Endre Ernő) estis elstara fotisto kaj fotoĵurnalisto dediĉiĝinta precipe al fotado de militoj, naskita en Budapeŝto (Hungario) la 22-an de oktobro de 1913, en familio de S-ro Dezső Friedmann, intelektulo, kaj edzino Julia, vesto-dezajnistino. Robert Capa mortis en Thai Binh (Vjetnamio) la 25-an de majo de 1954. Endre eklernis fotografion en 1926, danke al samurbanino (aŭ \"Éva Besnyő\"), tiame studenta pri tiu ĉi arto. Tri jarojn poste li ekkonis skribiston, eldoniston de revuo Munka, Lajos KASSÁK kiu inicis lin en ĵurnalismon kaj socialismon. En 1930 lia patro sendis lin al Berlino (Germanio) por studi ĵurnalismon. Tien ankaŭ estis vojaĝinta antaŭe Eva Besnyö, grava helpantino por li. Tiutempe li ankaŭ konis S-ron György KEPES -pentristo, fotisto, filmisto kaj artoteoriisto- kiu pruntedonis al li fotilon , unua fotilo por Endre. Li eniris, en 1931 al fotoagentejo , direktita de , lernis iom pri procezado de fotofilmoj, kaj per Leica fotilo kaptis la unuajn fotojn kiel profesia fotisto. En 1932 li vojaĝis al Danio, kaj en Kopenhago faris foton pri Trotsky preleganta pri la rusa revolucio la 27-an de novembro; la raporto estis publikigita en Der Welt Spiegel. En 1933 Endre vojaĝis al Parizo (Francio) kie li ekkonis gravajn fotistojn: , Henri Cartier-Bresson kaj , kaj fotistinojn kaj Gerda TARO -kiu poste estis lia fianĉino. La bapto kiel \"Robert Capa\" La revuo Vu publikigis en 1934 fotoraporton de lia aŭtoreco. Sed li ne estis sufiĉe kontenta pri la komisiitaj fotadoj nek pri la mono ricevita kiel pago. Krom tio, ekzistis alia hungara fotisto kiu subskribis siajn fotojn per la nomo \"Friedman\", kaj la nebona kvalito de ties fotoj misefikis sur la fotoj de Endre; do, por diferenciĝi li komencis subskribi siajn fotojn per la nomo \"André\", kaj publikigis du fotoraportojn sub tiu ĉi nomo. Tamen tiu solvo ankoraŭ ne ŝajnis sufiĉe kontentiga kaj, en 1935, Endre kaj sia fianĉino Gerta Pohorylle elpensis kaŝnomon \"Robert Capa\"; laŭ legendo imagita de ili: temus pri rafinita usona fotisto kies verko kostus trifoje pli ol la verko de tiu povra hungara fotisto Endre Friedmann. La nova nomo sonis usonece, \"Robert\" pro la kinoaktoro , \"Capa\" memorigis pri la filmoreĝisoro Frank Capra kaj la kuba ŝakludisto Capablanca. Tiam ankaŭ Gerda komencis uzi familinomon \"Taro\" anstataŭ sian denaskan \"Pohorylle\" Li vojaĝis unuafoje al Hispanio en 1935, kie li estis fotonta la Hispanan Enlandan Militon. Tie, la 5an de septembro de 1936 li faris unu el siaj plej famaj fotoj, kiu montras en la aero milicanon Federico Borrel García, precize kiam tiu ĉi, kun fusilo en dekstra mano, saltis en la tranĉeon kie situis la fotisto kaj ricevis mortigan pafaĵon. Kompreneble, tiu foto -\"Morto de milicano\"- kaptita en monteto Muriano, norde de la urbo Kordovo (Hispanio), nesuperebla ekzemplo de la koncepto \"decida momento\" de Henri Cartier-Bresson, famigis la fotiston; ĝi estis publikigita en la magazinoj Vu kaj Life. En 1937 la londona magazino Picture Post honoris lin kiel \"plej bona militfotisto de la mondo\". Samjare li vojaĝis al Novjorko (Usono), sed malbona okazintaĵo estis la morto de lia amikino Gerda, premegita de tanko en la Hispana Enlanda Milito. En 1938 li reiris al Hispanio, kie li fotis la batalon de Teruelo. Li vojaĝis al Ĉinio por partopreni en la filmado de la Dokumenta Filmo La 400 milionoj, direktita de la nederlandano . Li faris fotoraportojn por Vu, Life kaj aliaj magazinoj. En 1939 li faris fotoraportojn en Francio kaj en 1940 en Meksiko antaŭ ol reiri al Novjorko. En Meksiko li intencis fotoraporti denove pri Lev Trockij, sed ĉi-lasta estis mortigita la 21an de aŭgusto, antaŭ ol povi aranĝi renkontiĝon. Robert Capa fotis la verkiston Ernest Hemingway en 1941, kaj ankaŭ tiujare komencis li skribi membiografiajn kronikojn. Tiutempe li ekkonis sinjoron , diversprofesia homo, ankaŭ bonega fotisto. La sciigis lin en 1942 ke rilate la tiaman mondmiliton, li estis daklarita \"enemy alien\", t.e.: civitano de lando en konflikto kun Usono, kaj tial devigita resti en Novjorko. Tamen per alia letero, la magazino Collier's volis kontrakti lin por foti kaj raporti pri la milito en Eŭropo, kaj eĉ sendis al li monon, do li malobeis la ordonon pri restado en Novjorko, vojaĝis al Vaŝingtono kaj tie li sukcesis atingi britan pasporton kaj vojaĝi al Britio; poste li enŝipiĝis de tie al la scenejoj de la milito. Li fotoraportis pri la milito en Nord-Afriko en 1943 kaj poste iris al Italio. Tiam la magazino Collier's lin maldungis: senlabora militfotisto li ekestis, kaj helpe de amikino kontaktis denove magazinon Life pri la ebelco denove labori por tiu. Dume, en la sudo de Italio li sin lanĉis kun paraŝuto, sen antaŭa trejnado tiucela. Tagojn poste li ricevis konfirmon ke Life akceptis liajn servojn kiel militfotisto. La 6an de junio de 1944 li elŝipiĝis kun armea divizio en Normandio, en \"Plaĝo Omaha\" -usona kodnomo de unu el la lokoj por elŝipiĝo. Tie li kaptis, per du fotiloj , 106 bildojn (tri filmobendaj ruloj), sed bedaŭrinde la fotolaboratorio de Life misprocezis ilin kaj rezulte nur ok negativoj restis uzeblaj; la ceteraj bruliĝis pro tro da varmo dum sekigado. En 1945 li travojaĝis regionojn de Francio kaj Germanio kaj fotis scenojn pri la ĵusa liberigo. En Leipzig li kaptis bildon pri la t.n. \"lasta mortigito de la milito\". Robert Capa finis sian kontrakton kun magazino Life en 1946. Ankaŭ tiujare li fotis pri la kinfilmo Notorious direktita de Alfred Hitchcock, rolis en kinfilmo Tempation (\"Tentado\") direktita de , kaj travivis malfacilan amrilaton kun aktorino Ingrid Bergman; ĉi-lasta afero estis diskonigita nur en 1980 en membiografio de la aktorino. Li fondis en 1947 kooperativon de fotoĵurnalistoj, nomita agentejo Magnum Photos, kun siaj kolegoj: Henri Cartier-Bresson, , , , kaj . Tiujare ankaŭ estis publikigita lia libro Slightly Out of Focus (\"Iomete eksterfokuse\"). En 1948 aperis la libro Russian Journal, kun fotoj de Robert Capa kaj tekstoj de John Steinbeck, kun kiu la fotisto vojaĝis al tiama Sovetunio en 1947. Komisiita de la londona magazino Illustrated, li faris sian unuan vojaĝon al Izraelo, el kio la magazino publikigis liajn fotojn dum jaroj. En 1949 Li faris fotoraportojn pri Pablo Picasso kaj aliaj artistoj, kaj vojaĝis al Maroko, Pollando, kaj Hungario. La pentriston Henri Matisse li fotis en 1950, kaj laborante por la magazinoj kaj , li faris novan vojaĝon al Izraelo. En 1951 li fotis en Germanio, ne pri bataloj, sed pri skiado, bierfestoj kaj similaj temoj; dum 1952 li fotis precipe por la arkivo de sia agentejo Magnum, kaj en 1953 faris fotojn pri la filmo Beat the Devil, direktita de , en kiu rolis Humphrey Bogart. Poste li vojaĝis al Japanio. En aprilo de 1954 li estis en Tokio, tre feliĉa en Japanio, kiel li mem skribis al Werner Bishop kaj diris al sia amiko Hiroshi Kawazoe (関連写真): \"Japanio estas paradizo por fotisto\". Krom Tokio, li estis ankaŭ en Kioto, Nara, Osaka, Kobe kaj . Fine de aprilo, la eldonisto de Life, Ray Mackland, kontaktis la agentejon Magnum kaj faris oferton al Robert Capa por fotoraporti pri la milito en Vjetnamio, anstataŭante dum 30 tagoj fotiston . Li akceptis kaj la 9an de majo alvenis al Vjetnamio. La 25an de majo li portis du fotilojn: unu Contax kun grizfota filmobendo kaj alian kun kolorfota filmobendo. Tiutage li faris siajn du lastajn fotojn, unu grizan kaj alian koloran pri ok soldatoj. Tuj poste, je la 2:55 p.t.m., li paŝis sur kiu forsaltigis lin mortige. Li falis kun la fotilo Contax ankoraŭ mantenita. Citaĵoj :"@eo,
+        "Endre Ernő Friedmann (en húngaro: Friedmann Endre Ernő; Budapest, Hungría; 22 de octubre de 1913 - Thai Binh, Vietnam; 25 de mayo de 1954), más conocido como Robert Capa, fue un reportero de guerra, considerado el más famoso de la historia. Su carrera como fotoperiodista bélico se inició en España, durante la Guerra Civil. Al término del conflicto español, cubrió también la Segunda guerra sino-japonesa, la Segunda Guerra Mundial (el Blitz de Londres en la batalla de Inglaterra, la guerra del norte de África, la invasión de Italia, la batalla de Normandía en la playa de Omaha y la liberación de París), la guerra árabe-israelí de 1948 y la primera Guerra de Indochina. En 1947, en París, Endre Ernő Friedmann fundó, junto con David \"Chim\" Seymour, Henri Cartier-Bresson, George Rodger y William Vandivert, la organización Magnum Photos, la primera agencia de cooperación para fotógrafos independientes de todo el mundo.​"@es,
+        "Robert Capa (Budapest, Hungaria, 1913ko urriaren 22a - , Vietnam, 1954ko maiatzaren 25a). Seguruenik XX. mendeko korrespontsal grafiko ezagunena. Bere benetako izena Ernö edo Ernest Andrei Friedman da. Bost gerratan izan zen argazkilaria: Espainiako Gerra Zibilean, Bigarren gerra japoniar-txinatarrean, Bigarren Mundu Gerran (Europa osoan zehar), israeldarren eta palestinarren arteko 1948ko gerran eta, azkenik, Indotxinako Lehen Gerran, non hil egin zen."@eu,
+        "Robert Capa, pseudonyme d'Endre Ernő Friedmann, né le 22 octobre 1913 à Budapest et mort le 25 mai 1954 en Indochine, est un photographe et correspondant de guerre hongrois. Il a couvert les plus grands conflits de son époque et est l'un des fondateurs de la coopérative photographique Magnum, première de ce genre à voir le jour. Il fut le compagnon de la photographe Gerda Taro, qui inventa son pseudonyme et lança sa carrière. Il entretint une relation amoureuse avec Ingrid Bergman et une longue amitié avec Ernest Hemingway, qui s’est inspiré des photos de Capa pour écrire le livre Pour qui sonne le glas."@fr,
+        "Grianghrafadóir agus fóta-iriseoir ab ea Robert Capa, nó Endre Ernő Friedmann. (22 Meán Fómhair 1913 – 25 Bealtaine 1954). Aithnítear Robert Capa mar ghrianghrafadóir a chuir a shaol i mbaol ag lorg grianghraf a rinne fíorchur síos ar bhrúidiúlacht agus laochas na cogaíochta ar fud an domhain. Chreid sé gurb é an bealach is fearr chun a fháil amach cad é a bhí ag tarlú ná é féin a chur gualainn ar ghualainn le saighdiúirí créachtaithe agus le daoine misniúla a chonaic sé trí shúil a cheamara."@ga,
+        "Robert Capa (22 Oktober 1913 – 25 Mei 1954) adalah seorang dan fotografer kelahiran Hungaria yang khusus meliput dan memotret berbagai perang di dunia yang terjadi selama hidupnya. Dia lahir pada 22 Oktober 1913 dari pasangan Dezso dan Julia sebagai anak kedua dari tiga bersaudara. Robert Capa memiliki seorang kakak bernama Laszlo dan adik bernama Kornel. Pada usia 18 tahun, Robert pindah ke Berlin untuk mempelajari fotojurnalisme. Karya besar pertamanya diambil pada tahun 1932, ketika ia ditugaskan untuk memotret Trotsky (tokoh revolusioner Rusia) dalam jarak kurang dari satu meter, yang sedang berbicara tentang makna revolusi Rusia di stadion Copenhagen. Ketika Nazi menguasi Jerman, Robert pindah ke Paris dan bertemu dengan Gerda Taro, seorang fotografer wanita yang menjadi kekasihnya. Pada tahun 1936, Robert dan Gerda sempat meliput Perang Sipil Spanyol bersama hingga setahun kemudian terjadi suatu kecelakaan di dalam perjalanan yang menyebabkan Gerda meninggal. Walaupun merasa sedih dan kehilangan, Robert Capa terus melanjutkan perjalanannya ke Tiongkok pada tahun 1938 untuk memotret Perang Tiongkok-Jepang. Selain itu, dia juga memotret Perang Dunia II, Afrika Utara dan Sisilia, Italia. Salah satu fotonya yang sangat terkenal adalah \"Prajurit Jatuh\" (The Falling Soldier) yang diambil di Spanyol sesaat setelah dia ditembak. Salah satu kutipan terkenal yang pernah dikemukakan Robert adalah \"Jika gambar anda tidak cukup baik, anda tidak cukup dekat.\" (If your pictures aren't good enough, you're not close enough). Robert Capa adalah salah satu fotografer yang memotret perang dalam jarak yang dekat."@in,
+        "Robert Capa, pseudonimo di Endre Ernő Friedmann (Budapest, 22 ottobre 1913 – Provincia di Thai Binh, 25 maggio 1954), è stato un fotografo ungherese naturalizzato statunitense. I suoi reportage rendono testimonianza di cinque diversi conflitti bellici: la guerra civile spagnola (1936-1939), la seconda guerra sino-giapponese (che seguì nel 1938), la seconda guerra mondiale (1941-1945), la guerra arabo-israeliana (1948) e la prima guerra d'Indocina (1954). Capa documentò inoltre lo svolgersi della seconda guerra mondiale a Londra, nel Nordafrica e in Italia, e in particolare lo sbarco in Normandia dell'esercito alleato e la liberazione di Parigi. Il fratello minore di Capa, Cornell, è stato anch'egli un fotografo. È stato il compagno della fotografa Gerda Taro."@it,
+        "ロバート・キャパ（Robert Capa [ˈɹɔbətˈkæpə | ˈɹɑ(ː)bɚtˈkæpə], 1913年10月22日 - 1954年5月25日）は、ハンガリー生まれの写真家。 本名はフリードマン・エンドレ（Friedmann Endre [ˈfriːdmɒn ˈɛndrɛ]）。フランス語読みのアンドレ・フリードマン（André Friedmann [ɑ̃dʁe.fʁidman]）と表記されることもある。同じく写真家で、1974年にICP（国際写真センター）を創設したコーネル・キャパは弟。 スペイン内戦、日中戦争、第二次世界大戦のヨーロッパ戦線、第一次中東戦争、および第一次インドシナ戦争の5つの戦争を取材した20世紀を代表する戦場カメラマン、報道写真家として有名である。「ロバート・キャパ」と銘打たれた初期の作品群は、実際には、親しくしていたゲルダ・タローとの共同作業によるものである。スペイン内戦で親交を持ったヘミングウェイ、アルジェで知り合ったスタインベック、ピカソら多方面の作家・芸術家たちとの幅広い交際も有名である。"@ja,
+        "로버트 카파(영어: Robert Capa, 1913년 10월 22일 ~ 1954년 5월 25일)는 헝가리계 유태인이자 미국인으로, 세계적인 사진 에이전시 '매그넘 포토스'의 설립자인 동시에, 20세기에서 유명한 전쟁 보도 사진작가로, 에스파냐 내전, 중일전쟁, 제2차 세계 대전 유럽전선, 제1차 중동 전쟁, 제1차 인도차이나 전쟁을 취재했다. '로버트 카파'라는 이름은 유명한 미국 영화감독 프랭크 카프라(Frank Capra)의 이름을 본따 지었으며 '카파'라는 말은 헝가리어 '차퍼(Cápa)'에서 유래한 말로, 상어를 의미한다. 동생 도 사진작가이다."@ko,
+        "Robert Capa was aanvankelijk het pseudoniem van een drietal joodse oorlogsfotografen, die in de jaren 1930 niet als 'joods' geïdentificeerd wensten te worden. De belangrijkste twee waren Endre Friedmann, en zijn assistente/geliefde, de fotografe Gerda Taro - pseudoniem van , die de naam Robert Capa bedacht (capá, betekent haai in het Hongaars). Toen Gerda Taro in 1937 op 26-jarige leeftijd sneuvelde, koos Friedmann het pseudoniem Capa exclusief voor zichzelf. Hij werd geboren als Endre Ernő Friedmann; andere schrijfwijzen: André Friedmann of Andrei Friedmann (Boedapest, 22 oktober 1913 - , Vietnam, 25 mei 1954) en was een Hongaars-Amerikaanse oorlogsfotograaf van joodse komaf. Hij bracht verslag uit van vijf gewapende conflicten in de 20e eeuw: de Spaanse Burgeroorlog, de Tweede Chinees-Japanse Oorlog, de Tweede Wereldoorlog, de Arabisch-Israëlische Oorlog van 1948 en de Eerste Indochinese Oorlog. Friedmann was de tweede van drie zonen van een Hongaars-joodse familie. Ook zijn jongere broer, die zich noemde, was fotograaf."@nl,
+        "Robert Capa, właśc. Endré (André) Ernő Friedmann (ur. 22 października 1913 w Budapeszcie, zm. 25 maja 1954 w Thái Bình) – węgierski fotoreporter. Jeden z najważniejszych fotografów XX wieku, autor zdjęć z pięciu wojen (hiszpańskiej wojny domowej, wojny chińsko-japońskiej, II wojny światowej, I wojny izraelsko-arabskiej i I wojny indochińskiej) oraz innych wydarzeń. Urodzony na Węgrzech, w młodości musiał opuścić rodzinny kraj. Mieszkał m.in. w Berlinie, Paryżu i Nowym Jorku, wiele czasu spędzając jednak w różnych częściach świata, gdzie toczyły się historyczne wydarzenia. Podczas hiszpańskiej wojny domowej, pierwszej fotografowanej przez siebie wojny, wykonał jedno z najważniejszych zdjęć tego konfliktu i całego swojego dorobku – Padającego żołnierza. Podczas II wojny światowej wraz z pierwszą grupą alianckich żołnierzy brał udział w lądowaniu w Normandii. Choć większość z wykonanych przez niego wówczas zdjęć została bezpowrotnie zniszczona, dziewięć ocalałych stanowi cenny dokument tej operacji. W 1947 roku wraz z innymi fotografami założył agencję fotograficzną Magnum. Zdjęcia Capy ukazywały się na łamach m.in. „Vu” i „Life”. Jego motto brzmiało: Jeśli twoje zdjęcia nie są dostatecznie dobre, to znaczy, że nie jesteś dostatecznie blisko (...if your pictures aren’t good enough, you’re not close enough). Znany był z zamiłowania do hazardu, alkoholu i z licznych romansów. Zginął w wieku 41 lat, w wyniku wybuchu miny, fotografując przebieg wojny w Indochinach."@pl,
+        "Robert Capa, de seu nome verdadeiro Endre Ernő Friedmann (Budapeste, 22 de outubro de 1913 — Thai-Binh, 25 de maio de 1954), foi um fotógrafo húngaro. Um dos mais célebres fotógrafos de guerra, Capa cobriu os mais importantes conflitos da primeira metade do século XX: a Guerra Civil Espanhola, a Segunda Guerra Sino-Japonesa, a Segunda Guerra Mundial na Europa (em Londres, na Itália, a Batalha da Normandia na Praia de Omaha, e a liberação de Paris), no Norte da África, a Guerra árabe-israelense de 1948 e a Primeira Guerra da Indochina."@pt,
+        "Ро́берт Ка́па (англ. Robert Capa, настоящее имя Эндре Эрнё Фри́дман, венг. Friedman Endre Ernő; 22 октября 1913, Будапешт — 25 мая 1954, Тхайбинь, Французский Индокитай) — французский и американский фоторепортёр еврейского происхождения, родившийся в Венгрии. Старший брат Корнелла Капы. Классик документальной фотографии. Основоположник военной фотожурналистики. Один из пяти основателей первого в мире фотоагентства «Magnum Photos»."@ru,
+        "Robert Capa, ursprungligen Endre Ernő Friedmann, född 22 oktober 1913 i Budapest i Österrike-Ungern (nuvarande Ungern), död 25 maj 1954 i Thai Binh i Franska Indokina (nuvarande Vietnam), var en ungersk-amerikansk krigsfotograf. Capa bevakade och dokumenterade flera olika krig, som alla är historiska händelser; det spanska inbördeskriget, Japans invasion av Kina och stora delar av det andra världskriget. Han är även känd för att 1947 ha varit med och grundat Magnum Photos tillsammans med Henri Cartier-Bresson, David Seymour och Georges Rodger. Capa var byråns president fram till sin död."@sv,
+        "Роберт Капа (англ. Robert Capa, справжнє ім'я Ендре Ерне Фрідман; 22 жовтня 1913, Будапешт — 25 травня 1954, Тхайбінь, Французький Індокитай) — фоторепортер єврейського походження, народжений в Угорщині. Старший брат . Класик фотомистецтва. Засновник фотожурналістики."@uk,
+        "罗伯特·卡帕（英語：Robert Capa），1913年10月22日－1954年5月25日），原名弗里德曼·安德烈·艾爾諾（匈牙利語：Friedmann Endre Ernő），又名安德鲁·弗里德曼（André Friedmann），匈牙利裔美國籍摄影记者，20世纪最著名的战地摄影记者之一，参与报道过5场發生於20世纪的主要战争：包括西班牙内战、中国抗日战争、第二次世界大战欧洲战场、第一次中东战争以及第一次印支战争。第二次世界大战期间，卡帕跟随美國军隊报道了北非及意大利的军事行动，诺曼第登陆中的奥马哈海滩战役以及巴黎的解放。 卡帕被认为是“决定性瞬间”的集大成者之一，他的作品通过凝结瞬间再现了战争的残酷和暴戾，突出表现在他的几幅名作中。1947年，他和“决定性瞬间”的倡导者布勒松一同创立了著名的玛格南图片社，成为了全球第一家自由摄影师的合作组织。"@zh ;
+    dbo:birthDate "1913-10-22"^^xsd:date ;
+    dbo:birthName "Endre Ernő Friedmann"@en ;
+    dbo:birthPlace <http://dbpedia.org/resource/Austria-Hungary>,
+        <http://dbpedia.org/resource/Budapest> ;
+    dbo:deathDate "1954-05-25"^^xsd:date ;
+    dbo:deathPlace <http://dbpedia.org/resource/Thái_Bình_Province>,
+        <http://dbpedia.org/resource/Vietnam> ;
+    dbo:restingPlace <http://dbpedia.org/resource/Amawalk_Friends_Meeting_House> ;
+    dbo:thumbnail <http://commons.wikimedia.org/wiki/Special:FilePath/RobertCapabyGerdaTaro.jpg?width=300> ;
+    dbo:wikiPageExternalLink <http://www.alistairscott.com/capa/>,
+        <http://www.japantimes.co.jp/culture/2013/02/14/arts/driven-to-shoot-on-the-frontlines/%23.UR4_6vKjap1>,
+        <http://www.magnumphotos.com/robertcapa>,
+        <https://web.archive.org/web/20060321110648/http:/www.temple.edu/photo/photographers/capa/capa1.html>,
+        <https://www.independent.co.uk/arts-entertainment/art/features/the-woman-who-captured-robert-capas-heart-1999038.html>,
+        <https://www.nytimes.com/slideshow/2008/01/27/arts/20080127_KENN_SLIDESHOW_index.html>,
+        <https://www.pbs.org/wnet/americanmasters/database/capa_r.html> ;
+    dbo:wikiPageID 162711 ;
+    dbo:wikiPageLength "43772"^^xsd:nonNegativeInteger ;
+    dbo:wikiPageRevisionID 1116152227 ;
+    dbo:wikiPageWikiLink <http://dbpedia.org/resource/16th_Infantry_Regiment_(United_States)>,
+        <http://dbpedia.org/resource/1943_Naples_post_office_bombing>,
+        <http://dbpedia.org/resource/1948_Arab–Israeli_War>,
+        <http://dbpedia.org/resource/A._D._Coleman>,
+        <http://dbpedia.org/resource/A_Russian_Journal>,
+        <http://dbpedia.org/resource/Adolf_Hitler>,
+        <http://dbpedia.org/resource/Afterimage>,
+        <http://dbpedia.org/resource/Alex_Kershaw>,
+        <http://dbpedia.org/resource/Alfred_A._Knopf>,
+        <http://dbpedia.org/resource/Alfred_Hitchcock>,
+        <http://dbpedia.org/resource/Allies_of_World_War_II>,
+        <http://dbpedia.org/resource/Alt-J>,
+        <http://dbpedia.org/resource/Amawalk_Friends_Meeting_House>,
+        <http://dbpedia.org/resource/An_Awesome_Wave>,
+        <http://dbpedia.org/resource/Anti-fascist>,
+        <http://dbpedia.org/resource/Aperture_Foundation>,
+        <http://dbpedia.org/resource/Appleton-Century-Crofts>,
+        <http://dbpedia.org/resource/Art_Institute_of_Chicago>,
+        <http://dbpedia.org/resource/Atlantic_Wall>,
+        <http://dbpedia.org/resource/Austria-Hungary>,
+        <http://dbpedia.org/resource/Avant-garde>,
+        <http://dbpedia.org/resource/Barbican_Art_Gallery>,
+        <http://dbpedia.org/resource/Battle_of_Brunete>,
+        <http://dbpedia.org/resource/Batumi>,
+        <http://dbpedia.org/resource/Beat_the_Devil_(film)>,
+        <http://dbpedia.org/resource/Berlin>,
+        <http://dbpedia.org/resource/Berlin_University>,
+        <http://dbpedia.org/resource/Boston_Review>,
+        <http://dbpedia.org/resource/Budapest>,
+        <http://dbpedia.org/resource/Category:1913_births>,
+        <http://dbpedia.org/resource/Category:1954_deaths>,
+        <http://dbpedia.org/resource/Category:20th-century_Hungarian_Jews>,
+        <http://dbpedia.org/resource/Category:American_people_of_Hungarian-Jewish_descent>,
+        <http://dbpedia.org/resource/Category:American_photojournalists>,
+        <http://dbpedia.org/resource/Category:American_war_photographers>,
+        <http://dbpedia.org/resource/Category:Deaths_by_explosive_device>,
+        <http://dbpedia.org/resource/Category:Hungarian_Jews>,
+        <http://dbpedia.org/resource/Category:Hungarian_emigrants_to_the_United_States>,
+        <http://dbpedia.org/resource/Category:Hungarian_expatriates_in_France>,
+        <http://dbpedia.org/resource/Category:Hungarian_photojournalists>,
+        <http://dbpedia.org/resource/Category:Jewish_American_journalists>,
+        <http://dbpedia.org/resource/Category:Landmine_victims>,
+        <http://dbpedia.org/resource/Category:Magnum_photographers>,
+        <http://dbpedia.org/resource/Category:Photographers_from_Budapest>,
+        <http://dbpedia.org/resource/Category:Photography_in_China>,
+        <http://dbpedia.org/resource/Category:Photography_in_the_Soviet_Union>,
+        <http://dbpedia.org/resource/Category:Recipients_of_the_Medal_of_Freedom>,
+        <http://dbpedia.org/resource/Category:Social_documentary_photographers>,
+        <http://dbpedia.org/resource/Category:Spanish_Civil_War_photographers>,
+        <http://dbpedia.org/resource/Category:Vietnam_War_photographers>,
+        <http://dbpedia.org/resource/Category:War_photographers_killed_while_covering_military_conflicts>,
+        <http://dbpedia.org/resource/Category:World_War_II_photographers>,
+        <http://dbpedia.org/resource/Charles_Wertenbaker>,
+        <http://dbpedia.org/resource/Ciucea>,
+        <http://dbpedia.org/resource/Colleville-sur-Mer>,
+        <http://dbpedia.org/resource/Collier's_Weekly>,
+        <http://dbpedia.org/resource/Cooperative>,
+        <http://dbpedia.org/resource/Copenhagen>,
+        <http://dbpedia.org/resource/Cornell_Capa>,
+        <http://dbpedia.org/resource/Czech_hedgehog>,
+        <http://dbpedia.org/resource/D-Day>,
+        <http://dbpedia.org/resource/Da_Capo_Press>,
+        <http://dbpedia.org/resource/David_Seymour_(photographer)>,
+        <http://dbpedia.org/resource/Death_in_the_Making>,
+        <http://dbpedia.org/resource/Democratic_socialism>,
+        <http://dbpedia.org/resource/Diana_Forbes-Robertson>,
+        <http://dbpedia.org/resource/Dwight_D._Eisenhower>,
+        <http://dbpedia.org/resource/Enemy_alien>,
+        <http://dbpedia.org/resource/Ernest_Hemingway>,
+        <http://dbpedia.org/resource/European_Theatre>,
+        <http://dbpedia.org/resource/Eyemo>,
+        <http://dbpedia.org/resource/Falco_(musician)>,
+        <http://dbpedia.org/resource/File:Capa,_Death_of_a_Loyalist_Soldier.jpg>,
+        <http://dbpedia.org/resource/File:Capa-Haus.jpg>,
+        <http://dbpedia.org/resource/File:Capahaus-saniert.jpg>,
+        <http://dbpedia.org/resource/File:Capastraße.jpg>,
+        <http://dbpedia.org/resource/File:Chinese_Soldier.jpg>,
+        <http://dbpedia.org/resource/File:Fotografia_dos_refugiados_por_Robert_Capa.jpg>,
+        <http://dbpedia.org/resource/File:La_Guerra_Civil_a_través_del_lente_de_Robert_Capa.JPG>,
+        <http://dbpedia.org/resource/File:Lápida_de_Robert_Capa_(cropped).jpg>,
+        <http://dbpedia.org/resource/File:Negativos_do_Robert_Capa.jpg>,
+        <http://dbpedia.org/resource/File:PikiWiki_Israel_17486_Statue_quot;Freedom_is_Freequot;_-_Tribute_to_th.JPG>,
+        <http://dbpedia.org/resource/File:Robert_Capa_emléktáblája_Budapest_Városház_utca_10.jpg>,
+        <http://dbpedia.org/resource/First_Indochina_War>,
+        <http://dbpedia.org/resource/For_Whom_the_Bell_Tolls>,
+        <http://dbpedia.org/resource/Generation_X>,
+        <http://dbpedia.org/resource/George_A._Taylor>,
+        <http://dbpedia.org/resource/George_Rodger>,
+        <http://dbpedia.org/resource/Gerda_Taro>,
+        <http://dbpedia.org/resource/German_military_administration_in_occupied_France_during_World_War_II>,
+        <http://dbpedia.org/resource/Hankou>,
+        <http://dbpedia.org/resource/Henri_Cartier-Bresson>,
+        <http://dbpedia.org/resource/Henry_Holt_and_Company>,
+        <http://dbpedia.org/resource/Holiday_(magazine)>,
+        <http://dbpedia.org/resource/Humphrey_Bogart>,
+        <http://dbpedia.org/resource/Ingrid_Bergman>,
+        <http://dbpedia.org/resource/International_Center_of_Photography>,
+        <http://dbpedia.org/resource/International_Photography_Hall_of_Fame_and_Museum>,
+        <http://dbpedia.org/resource/Irwin_Shaw>,
+        <http://dbpedia.org/resource/James_Stewart>,
+        <http://dbpedia.org/resource/Jewish>,
+        <http://dbpedia.org/resource/John_G._Morris>,
+        <http://dbpedia.org/resource/John_Huston>,
+        <http://dbpedia.org/resource/John_Justin>,
+        <http://dbpedia.org/resource/John_Mecklin>,
+        <http://dbpedia.org/resource/John_Steinbeck>,
+        <http://dbpedia.org/resource/Kozma_Street_Cemetery>,
+        <http://dbpedia.org/resource/Kyiv>,
+        <http://dbpedia.org/resource/Leipzig>,
+        <http://dbpedia.org/resource/Leon_Trotsky>,
+        <http://dbpedia.org/resource/Liberation_of_Paris>,
+        <http://dbpedia.org/resource/Life_(magazine)>,
+        <http://dbpedia.org/resource/Life_magazine>,
+        <http://dbpedia.org/resource/Madrid>,
+        <http://dbpedia.org/resource/Magnum_Photos>,
+        <http://dbpedia.org/resource/Medal_of_Freedom_(1945)>,
+        <http://dbpedia.org/resource/Metropolitan_Museum_of_Art>,
+        <http://dbpedia.org/resource/Mexico>,
+        <http://dbpedia.org/resource/Miklós_Horthy>,
+        <http://dbpedia.org/resource/Modern_Library>,
+        <http://dbpedia.org/resource/Museu_Nacional_d'Art_de_Catalunya>,
+        <http://dbpedia.org/resource/Museum_of_Modern_Art>,
+        <http://dbpedia.org/resource/Nagoya>,
+        <http://dbpedia.org/resource/Naples>,
+        <http://dbpedia.org/resource/Nazi_Party>,
+        <http://dbpedia.org/resource/Omaha_Beach>,
+        <http://dbpedia.org/resource/Ouki_Kaname>,
+        <http://dbpedia.org/resource/Overseas_Press_Club>,
+        <http://dbpedia.org/resource/Owen_Sheers>,
+        <http://dbpedia.org/resource/Paris>,
+        <http://dbpedia.org/resource/Pascal_Covici>,
+        <http://dbpedia.org/resource/Patrick_Modiano>,
+        <http://dbpedia.org/resource/Phaidon_Press>,
+        <http://dbpedia.org/resource/Photojournalism>,
+        <http://dbpedia.org/resource/Picture_Post>,
+        <http://dbpedia.org/resource/Prague>,
+        <http://dbpedia.org/resource/Random_House>,
+        <http://dbpedia.org/resource/Raymond_J._Bowman>,
+        <http://dbpedia.org/resource/Rear_Window>,
+        <http://dbpedia.org/resource/Republican_faction_(Spanish_Civil_War)>,
+        <http://dbpedia.org/resource/Robert_Capa_Gold_Medal>,
+        <http://dbpedia.org/resource/Second_Sino-Japanese_War>,
+        <http://dbpedia.org/resource/Second_Spanish_Republic>,
+        <http://dbpedia.org/resource/Simon_&_Schuster>,
+        <http://dbpedia.org/resource/Socialism>,
+        <http://dbpedia.org/resource/Soviet_Union>,
+        <http://dbpedia.org/resource/Spanish_Civil_War>,
+        <http://dbpedia.org/resource/Stalingrad>,
+        <http://dbpedia.org/resource/Steidl>,
+        <http://dbpedia.org/resource/Takarazuka,_Hyōgo>,
+        <http://dbpedia.org/resource/Tbilisi>,
+        <http://dbpedia.org/resource/The_Battle_of_Waterloo_Road>,
+        <http://dbpedia.org/resource/The_Falling_Soldier>,
+        <http://dbpedia.org/resource/The_Mexican_Suitcase>,
+        <http://dbpedia.org/resource/The_Picture_of_the_Last_Man_to_Die>,
+        <http://dbpedia.org/resource/The_Shaved_Woman_of_Chartres>,
+        <http://dbpedia.org/resource/Thái_Bình_Province>,
+        <http://dbpedia.org/resource/Truman_Capote>,
+        <http://dbpedia.org/resource/Veľké_Kapušany>,
+        <http://dbpedia.org/resource/Vienna>,
+        <http://dbpedia.org/resource/Vietnam>,
+        <http://dbpedia.org/resource/Viking_Press>,
+        <http://dbpedia.org/resource/War_photography>,
+        <http://dbpedia.org/resource/Will_Lang_Jr.>,
+        <http://dbpedia.org/resource/Workers'_Party_of_Marxist_Unification>,
+        <http://dbpedia.org/resource/World_War_II>,
+        <http://dbpedia.org/resource/Wuhan> ;
+    dbp:bgcolor "MistyRose"@en ;
+    dbp:birthDate "1913-10-22"^^xsd:date ;
+    dbp:birthName "Endre Ernő Friedmann"@en ;
+    dbp:birthPlace <http://dbpedia.org/resource/Austria-Hungary>,
+        <http://dbpedia.org/resource/Budapest> ;
+    dbp:caption "Capa on assignment in Spain, using a Eyemo 35 mm movie camera, photographed by Gerda Taro."@en ;
+    dbp:deathDate "1954-05-25"^^xsd:date ;
+    dbp:deathPlace <http://dbpedia.org/resource/Thái_Bình_Province>,
+        <http://dbpedia.org/resource/Vietnam> ;
+    dbp:imageSize 280 ;
+    dbp:knownFor "War photography"@en ;
+    dbp:name "Robert Capa"@en ;
+    dbp:nationality "Hungarian, American"@en ;
+    dbp:quote "All you could do was to help individuals caught up in war, try to raise their spirits for a moment, perhaps flirt a little, make them laugh; ... and you could photograph them, to let them know that somebody cared."@en ;
+    dbp:restingPlace "Amawalk Hill Cemetery, New York"@en ;
+    dbp:source "Robert Capa"@en ;
+    dbp:width 25 ;
+    dbp:wikiPageUsesTemplate <http://dbpedia.org/resource/Template:Authority_control>,
+        <http://dbpedia.org/resource/Template:Citation_needed>,
+        <http://dbpedia.org/resource/Template:Cleanup_bare_URLs>,
+        <http://dbpedia.org/resource/Template:Commons_category>,
+        <http://dbpedia.org/resource/Template:Death_date_and_age>,
+        <http://dbpedia.org/resource/Template:Efn>,
+        <http://dbpedia.org/resource/Template:ISBN>,
+        <http://dbpedia.org/resource/Template:Infobox_artist>,
+        <http://dbpedia.org/resource/Template:Main>,
+        <http://dbpedia.org/resource/Template:More_citations_needed_section>,
+        <http://dbpedia.org/resource/Template:Notelist>,
+        <http://dbpedia.org/resource/Template:OCLC>,
+        <http://dbpedia.org/resource/Template:Quote_box>,
+        <http://dbpedia.org/resource/Template:Reflist>,
+        <http://dbpedia.org/resource/Template:Robert_Capa>,
+        <http://dbpedia.org/resource/Template:Rp>,
+        <http://dbpedia.org/resource/Template:Short_description>,
+        <http://dbpedia.org/resource/Template:Use_mdy_dates>,
+        <http://dbpedia.org/resource/Template:Vietnam_War_correspondents>,
+        <http://dbpedia.org/resource/Template:Wikiquote> ;
+    dcterms:subject <http://dbpedia.org/resource/Category:1913_births>,
+        <http://dbpedia.org/resource/Category:1954_deaths>,
+        <http://dbpedia.org/resource/Category:20th-century_Hungarian_Jews>,
+        <http://dbpedia.org/resource/Category:American_people_of_Hungarian-Jewish_descent>,
+        <http://dbpedia.org/resource/Category:American_photojournalists>,
+        <http://dbpedia.org/resource/Category:American_war_photographers>,
+        <http://dbpedia.org/resource/Category:Deaths_by_explosive_device>,
+        <http://dbpedia.org/resource/Category:Hungarian_Jews>,
+        <http://dbpedia.org/resource/Category:Hungarian_emigrants_to_the_United_States>,
+        <http://dbpedia.org/resource/Category:Hungarian_expatriates_in_France>,
+        <http://dbpedia.org/resource/Category:Hungarian_photojournalists>,
+        <http://dbpedia.org/resource/Category:Jewish_American_journalists>,
+        <http://dbpedia.org/resource/Category:Landmine_victims>,
+        <http://dbpedia.org/resource/Category:Magnum_photographers>,
+        <http://dbpedia.org/resource/Category:Photographers_from_Budapest>,
+        <http://dbpedia.org/resource/Category:Photography_in_China>,
+        <http://dbpedia.org/resource/Category:Photography_in_the_Soviet_Union>,
+        <http://dbpedia.org/resource/Category:Recipients_of_the_Medal_of_Freedom>,
+        <http://dbpedia.org/resource/Category:Social_documentary_photographers>,
+        <http://dbpedia.org/resource/Category:Spanish_Civil_War_photographers>,
+        <http://dbpedia.org/resource/Category:Vietnam_War_photographers>,
+        <http://dbpedia.org/resource/Category:War_photographers_killed_while_covering_military_conflicts>,
+        <http://dbpedia.org/resource/Category:World_War_II_photographers> ;
+    gold:hypernym <http://dbpedia.org/resource/Photographer> ;
+    schema:sameAs <http://viaf.org/viaf/54145320> ;
+    rdfs:comment "روبرت كابا (بالفرنسية: Robert Capa)‏ ـ (ولد باسم فريدمان إندري (بالمجرية: Friedmann Endre) في 22 أكتوبر 1913 - 25 مايو 1954) مصور حرب ومصور صحفي مجري غطى خمس حروب هي الحرب الأهلية الإسبانية والحرب اليابانية الصينية الثانية والحرب العالمية الثانية في أوروبا وحرب فلسطين سنة 1948 والحرب الهندوصينية الأولى. وثق سير الحرب العالمية الثانية في لندن وشمال أفريقيا وإيطاليا ومعركة نورماندي على شاطئ أوماها، وكذلك تحرير باريس. لقي كابا حتفه عصر يوم 25 مايو 1954، إثر انفجار لغم أرضي فيه أثناء تغطيته للحرب الهندوصينية الأولى بصحبة القوات الفرنسية."@ar,
+        "Robert Capa (Budapest, Hongria, 22 d'octubre de 1913 - Thai Binh, Vietnam, 25 de maig de 1954), és el pseudònim que representa la parella de fotògrafs Friedmann Endre Ernő i Gerda Taro. Van ser uns dels fotògrafs dels corresponsals de la guerra més famosos del segle xx. El soldat caigut (1936), La batalla del riu Segre (1938) i Refugiats de Barcelona (1939) centren la seva crònica de la guerra civil espanyola. Xina (1938) documenta el conflicte sinojaponès i, finalment, El Dia D (1944) i Alliberament de Leipzig (1945) presenten les seves fotografies de la Segona Guerra Mundial."@ca,
+        "Robert Capa (vlastním jménem Endre Friedmann) (22. října 1913, Budapešť – 25. května 1954, , Vietnam) byl maďarský válečný fotograf, fotožurnalista a spoluzakladatel agentury Magnum Photos. Absolvoval pět různých válek – španělskou občanskou válku v letech 1936–1939, druhou čínsko-japonskou válku, druhou světovou válku, první arabsko-izraelskou válku a válku indočínskou."@cs,
+        "Robert Capa (eigentlich Endre Ernő Friedmann, in anderen Schreibweisen auch André Friedmann oder Andrei Friedmann; * 22. Oktober 1913 in Budapest, Österreich-Ungarn; † 25. Mai 1954 in Thái-Bình in der Provinz Thái Bình, Französisch-Indochina) war ein ungarisch-US-amerikanischer Fotograf. Capa wurde vor allem als Kriegsreporter bekannt. Mehrere seiner Aufnahmen von Kriegsschauplätzen erlangten eine ikonische Bedeutung im öffentlichen Bewusstsein wie die vom Spanischen Bürgerkrieg oder die von der Landung der alliierten Streitkräfte am Strand der Normandie (am D-Day im Zweiten Weltkrieg)."@de,
+        "Ο Ρόμπερτ Κάπα (Robert Capa, πραγματικό όνομα: Endre Ernő Friedmann, 22 Οκτωβρίου 1913 – 25 Μαΐου 1954) ήταν Ούγγρος πολεμικός φωτογράφος και φωτορεπόρτερ που κάλυψε πέντε διαφορετικούς πολέμους: τον Ισπανικό εμφύλιο πόλεμο, τον Β΄ Σινοϊαπωνικό πόλεμο, τον Β΄ Παγκόσμιο Πόλεμο σε όλη την Ευρώπη, τον του 1948, και τον . Κατέγραψε την πορεία του Β΄ Παγκοσμίου Πολέμου στο Λονδίνο, την Βόρειο Αφρική, την Ιταλία, την Απόβαση της Νορμανδίας στην παραλία Όμαχα (Omaha Beach) και την απελευθέρωση του Παρισιού. Οι εν δράσει φωτογραφίες του, όπως εκείνες που ελήφθησαν κατά την απόβαση στη Νορμανδία το 1944, απεικονίζουν τη βία του πολέμου με μοναδικό τρόπο. Το 1947, ο Κάπα υπήρξε ο συνιδρυτής του με, ανάμεσα σε άλλους, τον Γάλλο φωτογράφο Ανρί Καρτιέ Μπρεσόν. Ο οργανισμός αυτός υπήρξε το πρώτο συνερ"@el,
+        "Robert Capa (born Endre Ernő Friedmann; October 22, 1913 – May 25, 1954) was a Hungarian-American war photographer and photojournalist as well as the companion and professional partner of photographer Gerda Taro. He is considered by some to be the greatest combat and adventure photographer in history."@en,
+        "Robert CAPA (\"RObert KApa\", baptonomo: FRIEDMANN Endre Ernő) estis elstara fotisto kaj fotoĵurnalisto dediĉiĝinta precipe al fotado de militoj, naskita en Budapeŝto (Hungario) la 22-an de oktobro de 1913, en familio de S-ro Dezső Friedmann, intelektulo, kaj edzino Julia, vesto-dezajnistino. Robert Capa mortis en Thai Binh (Vjetnamio) la 25-an de majo de 1954. Endre eklernis fotografion en 1926, danke al samurbanino (aŭ \"Éva Besnyő\"), tiame studenta pri tiu ĉi arto. Tri jarojn poste li ekkonis skribiston, eldoniston de revuo Munka, Lajos KASSÁK kiu inicis lin en ĵurnalismon kaj socialismon."@eo,
+        "Endre Ernő Friedmann (en húngaro: Friedmann Endre Ernő; Budapest, Hungría; 22 de octubre de 1913 - Thai Binh, Vietnam; 25 de mayo de 1954), más conocido como Robert Capa, fue un reportero de guerra, considerado el más famoso de la historia. Su carrera como fotoperiodista bélico se inició en España, durante la Guerra Civil. En 1947, en París, Endre Ernő Friedmann fundó, junto con David \"Chim\" Seymour, Henri Cartier-Bresson, George Rodger y William Vandivert, la organización Magnum Photos, la primera agencia de cooperación para fotógrafos independientes de todo el mundo.​"@es,
+        "Robert Capa (Budapest, Hungaria, 1913ko urriaren 22a - , Vietnam, 1954ko maiatzaren 25a). Seguruenik XX. mendeko korrespontsal grafiko ezagunena. Bere benetako izena Ernö edo Ernest Andrei Friedman da. Bost gerratan izan zen argazkilaria: Espainiako Gerra Zibilean, Bigarren gerra japoniar-txinatarrean, Bigarren Mundu Gerran (Europa osoan zehar), israeldarren eta palestinarren arteko 1948ko gerran eta, azkenik, Indotxinako Lehen Gerran, non hil egin zen."@eu,
+        "Robert Capa, pseudonyme d'Endre Ernő Friedmann, né le 22 octobre 1913 à Budapest et mort le 25 mai 1954 en Indochine, est un photographe et correspondant de guerre hongrois. Il a couvert les plus grands conflits de son époque et est l'un des fondateurs de la coopérative photographique Magnum, première de ce genre à voir le jour. Il fut le compagnon de la photographe Gerda Taro, qui inventa son pseudonyme et lança sa carrière."@fr,
+        "Grianghrafadóir agus fóta-iriseoir ab ea Robert Capa, nó Endre Ernő Friedmann. (22 Meán Fómhair 1913 – 25 Bealtaine 1954). Aithnítear Robert Capa mar ghrianghrafadóir a chuir a shaol i mbaol ag lorg grianghraf a rinne fíorchur síos ar bhrúidiúlacht agus laochas na cogaíochta ar fud an domhain. Chreid sé gurb é an bealach is fearr chun a fháil amach cad é a bhí ag tarlú ná é féin a chur gualainn ar ghualainn le saighdiúirí créachtaithe agus le daoine misniúla a chonaic sé trí shúil a cheamara."@ga,
+        "Robert Capa (22 Oktober 1913 – 25 Mei 1954) adalah seorang dan fotografer kelahiran Hungaria yang khusus meliput dan memotret berbagai perang di dunia yang terjadi selama hidupnya. Dia lahir pada 22 Oktober 1913 dari pasangan Dezso dan Julia sebagai anak kedua dari tiga bersaudara. Robert Capa memiliki seorang kakak bernama Laszlo dan adik bernama Kornel. Pada usia 18 tahun, Robert pindah ke Berlin untuk mempelajari fotojurnalisme. Karya besar pertamanya diambil pada tahun 1932, ketika ia ditugaskan untuk memotret Trotsky (tokoh revolusioner Rusia) dalam jarak kurang dari satu meter, yang sedang berbicara tentang makna revolusi Rusia di stadion Copenhagen. Ketika Nazi menguasi Jerman, Robert pindah ke Paris dan bertemu dengan Gerda Taro, seorang fotografer wanita yang menjadi kekasihnya. "@in,
+        "Robert Capa, pseudonimo di Endre Ernő Friedmann (Budapest, 22 ottobre 1913 – Provincia di Thai Binh, 25 maggio 1954), è stato un fotografo ungherese naturalizzato statunitense. I suoi reportage rendono testimonianza di cinque diversi conflitti bellici: la guerra civile spagnola (1936-1939), la seconda guerra sino-giapponese (che seguì nel 1938), la seconda guerra mondiale (1941-1945), la guerra arabo-israeliana (1948) e la prima guerra d'Indocina (1954). È stato il compagno della fotografa Gerda Taro."@it,
+        "ロバート・キャパ（Robert Capa [ˈɹɔbətˈkæpə | ˈɹɑ(ː)bɚtˈkæpə], 1913年10月22日 - 1954年5月25日）は、ハンガリー生まれの写真家。 本名はフリードマン・エンドレ（Friedmann Endre [ˈfriːdmɒn ˈɛndrɛ]）。フランス語読みのアンドレ・フリードマン（André Friedmann [ɑ̃dʁe.fʁidman]）と表記されることもある。同じく写真家で、1974年にICP（国際写真センター）を創設したコーネル・キャパは弟。 スペイン内戦、日中戦争、第二次世界大戦のヨーロッパ戦線、第一次中東戦争、および第一次インドシナ戦争の5つの戦争を取材した20世紀を代表する戦場カメラマン、報道写真家として有名である。「ロバート・キャパ」と銘打たれた初期の作品群は、実際には、親しくしていたゲルダ・タローとの共同作業によるものである。スペイン内戦で親交を持ったヘミングウェイ、アルジェで知り合ったスタインベック、ピカソら多方面の作家・芸術家たちとの幅広い交際も有名である。"@ja,
+        "로버트 카파(영어: Robert Capa, 1913년 10월 22일 ~ 1954년 5월 25일)는 헝가리계 유태인이자 미국인으로, 세계적인 사진 에이전시 '매그넘 포토스'의 설립자인 동시에, 20세기에서 유명한 전쟁 보도 사진작가로, 에스파냐 내전, 중일전쟁, 제2차 세계 대전 유럽전선, 제1차 중동 전쟁, 제1차 인도차이나 전쟁을 취재했다. '로버트 카파'라는 이름은 유명한 미국 영화감독 프랭크 카프라(Frank Capra)의 이름을 본따 지었으며 '카파'라는 말은 헝가리어 '차퍼(Cápa)'에서 유래한 말로, 상어를 의미한다. 동생 도 사진작가이다."@ko,
+        "Robert Capa was aanvankelijk het pseudoniem van een drietal joodse oorlogsfotografen, die in de jaren 1930 niet als 'joods' geïdentificeerd wensten te worden. De belangrijkste twee waren Endre Friedmann, en zijn assistente/geliefde, de fotografe Gerda Taro - pseudoniem van , die de naam Robert Capa bedacht (capá, betekent haai in het Hongaars). Toen Gerda Taro in 1937 op 26-jarige leeftijd sneuvelde, koos Friedmann het pseudoniem Capa exclusief voor zichzelf. Friedmann was de tweede van drie zonen van een Hongaars-joodse familie. Ook zijn jongere broer, die zich noemde, was fotograaf."@nl,
+        "Robert Capa, właśc. Endré (André) Ernő Friedmann (ur. 22 października 1913 w Budapeszcie, zm. 25 maja 1954 w Thái Bình) – węgierski fotoreporter. Jeden z najważniejszych fotografów XX wieku, autor zdjęć z pięciu wojen (hiszpańskiej wojny domowej, wojny chińsko-japońskiej, II wojny światowej, I wojny izraelsko-arabskiej i I wojny indochińskiej) oraz innych wydarzeń."@pl,
+        "Robert Capa, de seu nome verdadeiro Endre Ernő Friedmann (Budapeste, 22 de outubro de 1913 — Thai-Binh, 25 de maio de 1954), foi um fotógrafo húngaro. Um dos mais célebres fotógrafos de guerra, Capa cobriu os mais importantes conflitos da primeira metade do século XX: a Guerra Civil Espanhola, a Segunda Guerra Sino-Japonesa, a Segunda Guerra Mundial na Europa (em Londres, na Itália, a Batalha da Normandia na Praia de Omaha, e a liberação de Paris), no Norte da África, a Guerra árabe-israelense de 1948 e a Primeira Guerra da Indochina."@pt,
+        "Ро́берт Ка́па (англ. Robert Capa, настоящее имя Эндре Эрнё Фри́дман, венг. Friedman Endre Ernő; 22 октября 1913, Будапешт — 25 мая 1954, Тхайбинь, Французский Индокитай) — французский и американский фоторепортёр еврейского происхождения, родившийся в Венгрии. Старший брат Корнелла Капы. Классик документальной фотографии. Основоположник военной фотожурналистики. Один из пяти основателей первого в мире фотоагентства «Magnum Photos»."@ru,
+        "Robert Capa, ursprungligen Endre Ernő Friedmann, född 22 oktober 1913 i Budapest i Österrike-Ungern (nuvarande Ungern), död 25 maj 1954 i Thai Binh i Franska Indokina (nuvarande Vietnam), var en ungersk-amerikansk krigsfotograf. Capa bevakade och dokumenterade flera olika krig, som alla är historiska händelser; det spanska inbördeskriget, Japans invasion av Kina och stora delar av det andra världskriget. Han är även känd för att 1947 ha varit med och grundat Magnum Photos tillsammans med Henri Cartier-Bresson, David Seymour och Georges Rodger. Capa var byråns president fram till sin död."@sv,
+        "Роберт Капа (англ. Robert Capa, справжнє ім'я Ендре Ерне Фрідман; 22 жовтня 1913, Будапешт — 25 травня 1954, Тхайбінь, Французький Індокитай) — фоторепортер єврейського походження, народжений в Угорщині. Старший брат . Класик фотомистецтва. Засновник фотожурналістики."@uk,
+        "罗伯特·卡帕（英語：Robert Capa），1913年10月22日－1954年5月25日），原名弗里德曼·安德烈·艾爾諾（匈牙利語：Friedmann Endre Ernő），又名安德鲁·弗里德曼（André Friedmann），匈牙利裔美國籍摄影记者，20世纪最著名的战地摄影记者之一，参与报道过5场發生於20世纪的主要战争：包括西班牙内战、中国抗日战争、第二次世界大战欧洲战场、第一次中东战争以及第一次印支战争。第二次世界大战期间，卡帕跟随美國军隊报道了北非及意大利的军事行动，诺曼第登陆中的奥马哈海滩战役以及巴黎的解放。 卡帕被认为是“决定性瞬间”的集大成者之一，他的作品通过凝结瞬间再现了战争的残酷和暴戾，突出表现在他的几幅名作中。1947年，他和“决定性瞬间”的倡导者布勒松一同创立了著名的玛格南图片社，成为了全球第一家自由摄影师的合作组织。"@zh ;
+    owl:sameAs <http://af.dbpedia.org/resource/Robert_Capa>,
+        <http://api.nytimes.com/svc/semantic/v2/concept/name/nytd_per/Capa,%20Robert>,
+        <http://ar.dbpedia.org/resource/روبرت_كابا>,
+        <http://arz.dbpedia.org/resource/روبرت_كابا>,
+        <http://az.dbpedia.org/resource/Robert_Kapa>,
+        <http://bg.dbpedia.org/resource/Робърт_Капа>,
+        <http://ca.dbpedia.org/resource/Robert_Capa>,
+        <http://cs.dbpedia.org/resource/Robert_Capa>,
+        <http://cy.dbpedia.org/resource/Robert_Capa>,
+        <http://d-nb.info/gnd/103699066>,
+        <http://d-nb.info/gnd/1162336501>,
+        <http://d-nb.info/gnd/118666983>,
+        <http://da.dbpedia.org/resource/Robert_Capa>,
+        <http://data.bibliotheken.nl/id/thes/p070300836>,
+        <http://data.europa.eu/euodp/jrc-names/Robert_Capa>,
+        <http://dbpedia.org/resource/Robert_Capa>,
+        <http://de.dbpedia.org/resource/Robert_Capa>,
+        <http://el.dbpedia.org/resource/Ρόμπερτ_Κάπα>,
+        <http://eo.dbpedia.org/resource/Robert_Capa>,
+        <http://es.dbpedia.org/resource/Robert_Capa>,
+        <http://et.dbpedia.org/resource/Robert_Capa>,
+        <http://eu.dbpedia.org/resource/Robert_Capa>,
+        <http://fa.dbpedia.org/resource/رابرت_کاپا>,
+        <http://fi.dbpedia.org/resource/Robert_Capa>,
+        <http://fr.dbpedia.org/resource/Robert_Capa>,
+        <http://ga.dbpedia.org/resource/Robert_Capa>,
+        <http://gl.dbpedia.org/resource/Robert_Capa>,
+        <http://he.dbpedia.org/resource/רוברט_קאפה>,
+        <http://hr.dbpedia.org/resource/Robert_Capa>,
+        <http://hu.dbpedia.org/resource/Robert_Capa>,
+        <http://hy.dbpedia.org/resource/Ռոբերտ_Կապա>,
+        <http://id.dbpedia.org/resource/Robert_Capa>,
+        <http://it.dbpedia.org/resource/Robert_Capa>,
+        <http://ja.dbpedia.org/resource/ロバート・キャパ>,
+        <http://kk.dbpedia.org/resource/Роберт_Капа>,
+        <http://ko.dbpedia.org/resource/로버트_카파>,
+        <http://lb.dbpedia.org/resource/Robert_Capa>,
+        <http://lt.dbpedia.org/resource/Robert_Capa>,
+        <http://lv.dbpedia.org/resource/Roberts_Kapa>,
+        <http://mk.dbpedia.org/resource/Роберт_Капа>,
+        <http://ml.dbpedia.org/resource/റോബർട്ട്_കാപ>,
+        <http://musicbrainz.org/artist/31afb71e-bfdc-4efc-b735-de547402daf2>,
+        <http://nl.dbpedia.org/resource/Robert_Capa>,
+        <http://no.dbpedia.org/resource/Robert_Capa>,
+        <http://pl.dbpedia.org/resource/Robert_Capa>,
+        <http://pt.dbpedia.org/resource/Robert_Capa>,
+        <http://rdf.freebase.com/ns/m.015lzh>,
+        <http://ro.dbpedia.org/resource/Robert_Capa>,
+        <http://ru.dbpedia.org/resource/Роберт_Капа>,
+        <http://scn.dbpedia.org/resource/Robert_Capa>,
+        <http://sh.dbpedia.org/resource/Robert_Capa>,
+        <http://sk.dbpedia.org/resource/Robert_Capa>,
+        <http://sr.dbpedia.org/resource/Роберт_Капа>,
+        <http://sv.dbpedia.org/resource/Robert_Capa>,
+        <http://th.dbpedia.org/resource/รอเบิร์ต_คาปา>,
+        <http://tr.dbpedia.org/resource/Robert_Capa>,
+        <http://uk.dbpedia.org/resource/Роберт_Капа>,
+        <http://viaf.org/viaf/54145320>,
+        <http://www.wikidata.org/entity/Q152524>,
+        <http://yago-knowledge.org/resource/Robert_Capa>,
+        <http://zh.dbpedia.org/resource/罗伯特·卡帕>,
+        <https://global.dbpedia.org/id/XBf9> ;
+    prov:wasDerivedFrom <http://en.wikipedia.org/wiki/Robert_Capa?oldid=1116152227&ns=0> ;
+    foaf:depiction <http://commons.wikimedia.org/wiki/Special:FilePath/Capa,_Death_of_a_Loyalist_Soldier.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Capa-Haus.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Capahaus-saniert.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Capastraße.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Chinese_Soldier.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Fotografia_dos_refugiados_por_Robert_Capa.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/La_Guerra_Civil_a_través_del_lente_de_Robert_Capa.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Lápida_de_Robert_Capa_(cropped).jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Negativos_do_Robert_Capa.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki_Israel_17486_Statue_quot;Freedom_is_Freequot;_-_Tribute_to_th.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/RobertCapabyGerdaTaro.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Robert_Capa_emléktáblája_Budapest_Városház_utca_10.jpg> ;
+    foaf:isPrimaryTopicOf <http://en.wikipedia.org/wiki/Robert_Capa> ;
+    foaf:name "Robert Capa"@en .
+
