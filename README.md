@@ -7,7 +7,8 @@ The repository includes lectures and exercises of the course TESR (DHDK), held b
 **2025/2026**
 
  - [Teams Link - streaming lectures](https://teams.microsoft.com/meet/347857576174647?p=Jd1bFAFGR5EyfJkTep)
- - [1st class](https://teams.microsoft.com/l/meetingrecap?driveId=b%21hYVpcy_frUSFHIoo2h6Tg8XNaZB_NyBHqeNRCnvuf27YsreBWmBNQYHMkSbYoO39&driveItemId=01U7OOJMCX5SKL6CG2QVHZQHDAYAI63X26&sitePath=https%3A%2F%2Fliveunibo-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fmarilena_daquino2_unibo_it%2FIQBX7JS_CNqFT5gcYMAR7d9eAT6fmH8wMcsISTZxIfs9CX8&fileUrl=https%3A%2F%2Fliveunibo-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fmarilena_daquino2_unibo_it%2FIQBX7JS_CNqFT5gcYMAR7d9eAT6fmH8wMcsISTZxIfs9CX8&iCalUid=040000008200E00074C5B7101A82E00800000000EE70D24B00CCDC0100000000000000001000000000992F62F4C91A4AA3A70E27AFB0C83E&threadId=19%3Ameeting_MTQ3Yzc4NDQtZTU3NC00NTYzLWE5NTctOTRjZjVkZTYwNjA2%40thread.v2&organizerId=98291ee2-1921-4efa-91ab-6b22fbb37a2d&tenantId=e99647dc-1b08-454a-bf8c-699181b389ab&callId=93ea6b20-c5e8-42d0-9407-0046a1762b1a&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapChiclet)
+ - [1st class](https://liveunibo-my.sharepoint.com/:v:/g/personal/marilena_daquino2_unibo_it/IQBX7JS_CNqFT5gcYMAR7d9eAT6fmH8wMcsISTZxIfs9CX8)
+ - [2nd class](https://liveunibo-my.sharepoint.com/:v:/g/personal/marilena_daquino2_unibo_it/IQDqUg2u78NrRIpFdU4CGewuAVe-RQhdvZSoGfs9Pg39ywc) 
 
 
 ## Exam program, lectures
