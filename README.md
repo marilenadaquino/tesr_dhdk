@@ -7,8 +7,7 @@ The repository includes lectures and exercises of the course TESR (DHDK), held b
 **2025/2026**
 
  - [Teams Link - streaming lectures](https://teams.microsoft.com/meet/347857576174647?p=Jd1bFAFGR5EyfJkTep)
- - [1st class](https://liveunibo-my.sharepoint.com/:v:/g/personal/marilena_daquino2_unibo_it/IQBX7JS_CNqFT5gcYMAR7d9eAT6fmH8wMcsISTZxIfs9CX8)
- - [2nd class](https://liveunibo-my.sharepoint.com/:v:/g/personal/marilena_daquino2_unibo_it/IQDqUg2u78NrRIpFdU4CGewuAVe-RQhdvZSoGfs9Pg39ywc) 
+ - [Recordings - for Unibo users only](https://liveunibo-my.sharepoint.com/:f:/g/personal/marilena_daquino2_unibo_it/IgBFBUVTSQKiSaOgdQNGndygATBOWuEwkOgq9qb06S2l6Hw?e=c1yxI8)
 
 
 ## Exam program, lectures
